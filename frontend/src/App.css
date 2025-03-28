@@ -1,8 +1,22 @@
 #root {
-  max-width: 1280px;
+  max-width: 1400px;
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  background-color: #f8f9fa;
+  min-height: 100vh;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #2c3e50;
+}
+
+* {
+  box-sizing: border-box;
 }
 
 .logo {
@@ -39,4 +53,388 @@
 
 .read-the-docs {
   color: #888;
+}
+
+.dashboard {
+  width: 100%;
+  padding: 20px;
+  background: white;
+  border-radius: 16px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.dashboard h1 {
+  margin-bottom: 30px;
+  color: #2c3e50;
+  font-size: 2.5rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  position: relative;
+  padding-bottom: 15px;
+}
+
+.dashboard h1::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100px;
+  height: 4px;
+  background: linear-gradient(90deg, #3498db, #2ecc71);
+  border-radius: 2px;
+}
+
+.dashboard select {
+  padding: 12px 24px;
+  font-size: 16px;
+  margin-bottom: 30px;
+  border-radius: 8px;
+  border: 2px solid #e0e0e0;
+  background-color: white;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.dashboard select:hover {
+  border-color: #3498db;
+  box-shadow: 0 4px 8px rgba(52, 152, 219, 0.1);
+}
+
+.dashboard select:focus {
+  outline: none;
+  border-color: #3498db;
+  box-shadow: 0 4px 12px rgba(52, 152, 219, 0.2);
+}
+
+.charts {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+}
+
+.summary-stats {
+  background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%);
+  padding: 30px;
+  border-radius: 16px;
+  margin-bottom: 30px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+  border: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 25px;
+  margin-top: 20px;
+}
+
+.stat-item {
+  background: white;
+  padding: 25px;
+  border-radius: 12px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.stat-item:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
+}
+
+.stat-item h3 {
+  margin: 0;
+  font-size: 16px;
+  color: #7f8c8d;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.stat-item p {
+  margin: 15px 0 0;
+  font-size: 32px;
+  font-weight: 700;
+  color: #2c3e50;
+  background: linear-gradient(45deg, #3498db, #2ecc71);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.charts h2 {
+  color: #2c3e50;
+  margin-bottom: 25px;
+  font-size: 1.8rem;
+  font-weight: 600;
+  position: relative;
+  padding-bottom: 10px;
+}
+
+.charts h2::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 60px;
+  height: 3px;
+  background: linear-gradient(90deg, #3498db, #2ecc71);
+  border-radius: 2px;
+}
+
+/* Table Styles */
+.branch-details,
+.company-details,
+.sector-details {
+  margin-top: 20px;
+  overflow-x: auto;
+  background: white;
+  border-radius: 16px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+  padding: 20px;
+}
+
+.branch-details table,
+.company-details table,
+.sector-details table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  background: white;
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.branch-details th,
+.company-details th,
+.sector-details th {
+  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+  padding: 15px 20px;
+  text-align: left;
+  font-weight: 600;
+  color: #2c3e50;
+  text-transform: uppercase;
+  font-size: 14px;
+  letter-spacing: 0.5px;
+  border-bottom: 2px solid #e9ecef;
+}
+
+.branch-details td,
+.company-details td,
+.sector-details td {
+  padding: 15px 20px;
+  text-align: left;
+  color: #34495e;
+  border-bottom: 1px solid #e9ecef;
+  transition: background-color 0.3s ease;
+}
+
+.branch-details tr:hover,
+.company-details tr:hover,
+.sector-details tr:hover {
+  background-color: #f8f9fa;
+}
+
+.branch-details tr:last-child td,
+.company-details tr:last-child td,
+.sector-details tr:last-child td {
+  border-bottom: none;
+}
+
+/* Chart Container Styles */
+.recharts-wrapper {
+  background: white;
+  padding: 20px;
+  border-radius: 16px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+  margin: 20px 0;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  #root {
+    padding: 1rem;
+  }
+
+  .dashboard {
+    padding: 15px;
+  }
+
+  .dashboard h1 {
+    font-size: 2rem;
+  }
+
+  .stats-grid {
+    grid-template-columns: 1fr;
+    gap: 15px;
+  }
+
+  .stat-item {
+    padding: 20px;
+  }
+
+  .stat-item p {
+    font-size: 28px;
+  }
+
+  .branch-details,
+  .company-details,
+  .sector-details {
+    margin: 0 -10px;
+    padding: 10px;
+  }
+
+  .branch-details th,
+  .company-details th,
+  .sector-details th,
+  .branch-details td,
+  .company-details td,
+  .sector-details td {
+    padding: 12px 15px;
+    font-size: 14px;
+  }
+}
+
+/* Loading State */
+.loading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 200px;
+  font-size: 1.2rem;
+  color: #7f8c8d;
+}
+
+/* Error State */
+.error {
+  color: #e74c3c;
+  background: #fdf3f2;
+  padding: 15px 25px;
+  border-radius: 8px;
+  margin: 20px 0;
+  font-weight: 500;
+  box-shadow: 0 2px 4px rgba(231, 76, 60, 0.1);
+}
+
+/* Chart Section Styles */
+.chart-section {
+  background: white;
+  border-radius: 16px;
+  padding: 25px;
+  margin-bottom: 30px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  animation: fadeIn 0.5s ease-out;
+}
+
+.chart-section:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
+}
+
+/* Animations */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Chart Customization */
+.recharts-bar-rectangle {
+  transition: fill 0.3s ease;
+}
+
+.recharts-bar-rectangle:hover {
+  fill: #2980b9;
+}
+
+.recharts-line-curve {
+  transition: stroke-width 0.3s ease;
+}
+
+.recharts-line-curve:hover {
+  stroke-width: 3;
+}
+
+.recharts-tooltip-wrapper {
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  padding: 10px;
+}
+
+.recharts-tooltip-label {
+  color: #2c3e50;
+  font-weight: 600;
+}
+
+.recharts-tooltip-item {
+  color: #34495e;
+}
+
+/* Table Scrollbar Styling */
+.branch-details,
+.company-details,
+.sector-details {
+  scrollbar-width: thin;
+  scrollbar-color: #3498db #f8f9fa;
+}
+
+.branch-details::-webkit-scrollbar,
+.company-details::-webkit-scrollbar,
+.sector-details::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+.branch-details::-webkit-scrollbar-track,
+.company-details::-webkit-scrollbar-track,
+.sector-details::-webkit-scrollbar-track {
+  background: #f8f9fa;
+  border-radius: 4px;
+}
+
+.branch-details::-webkit-scrollbar-thumb,
+.company-details::-webkit-scrollbar-thumb,
+.sector-details::-webkit-scrollbar-thumb {
+  background: #3498db;
+  border-radius: 4px;
+}
+
+.branch-details::-webkit-scrollbar-thumb:hover,
+.company-details::-webkit-scrollbar-thumb:hover,
+.sector-details::-webkit-scrollbar-thumb:hover {
+  background: #2980b9;
+}
+
+/* Year Select Styling */
+.dashboard select {
+  appearance: none;
+  background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3e%3cpolyline points='6 9 12 15 18 9'%3e%3c/polyline%3e%3c/svg%3e");
+  background-repeat: no-repeat;
+  background-position: right 1rem center;
+  background-size: 1em;
+  padding-right: 2.5rem;
+}
+
+/* Responsive Chart Adjustments */
+@media (max-width: 768px) {
+  .chart-section {
+    padding: 15px;
+  }
+
+  .recharts-wrapper {
+    padding: 10px;
+  }
+
+  .recharts-text {
+    font-size: 12px;
+  }
 }

@@ -1,0 +1,105 @@
+.branch-details,
+.company-details,
+.sector-details {
+  margin-top: 20px;
+  overflow-x: auto;
+  background: white;
+  border-radius: 16px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+  padding: 20px;
+  scrollbar-width: thin;
+  scrollbar-color: #3498db #f8f9fa;
+}
+
+.branch-details::-webkit-scrollbar,
+.company-details::-webkit-scrollbar,
+.sector-details::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+.branch-details::-webkit-scrollbar-track,
+.company-details::-webkit-scrollbar-track,
+.sector-details::-webkit-scrollbar-track {
+  background: #f8f9fa;
+  border-radius: 4px;
+}
+
+.branch-details::-webkit-scrollbar-thumb,
+.company-details::-webkit-scrollbar-thumb,
+.sector-details::-webkit-scrollbar-thumb {
+  background: #3498db;
+  border-radius: 4px;
+}
+
+.branch-details::-webkit-scrollbar-thumb:hover,
+.company-details::-webkit-scrollbar-thumb:hover,
+.sector-details::-webkit-scrollbar-thumb:hover {
+  background: #2980b9;
+}
+
+.branch-details table,
+.company-details table,
+.sector-details table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  background: white;
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.branch-details th,
+.company-details th,
+.sector-details th {
+  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+  padding: 15px 20px;
+  text-align: left;
+  font-weight: 600;
+  color: #2c3e50;
+  text-transform: uppercase;
+  font-size: 14px;
+  letter-spacing: 0.5px;
+  border-bottom: 2px solid #e9ecef;
+}
+
+.branch-details td,
+.company-details td,
+.sector-details td {
+  padding: 15px 20px;
+  text-align: left;
+  color: #34495e;
+  border-bottom: 1px solid #e9ecef;
+  transition: background-color 0.3s ease;
+}
+
+.branch-details tr:hover,
+.company-details tr:hover,
+.sector-details tr:hover {
+  background-color: #f8f9fa;
+}
+
+.branch-details tr:last-child td,
+.company-details tr:last-child td,
+.sector-details tr:last-child td {
+  border-bottom: none;
+}
+
+@media (max-width: 768px) {
+  .branch-details,
+  .company-details,
+  .sector-details {
+    margin: 0 -10px;
+    padding: 10px;
+  }
+
+  .branch-details th,
+  .company-details th,
+  .sector-details th,
+  .branch-details td,
+  .company-details td,
+  .sector-details td {
+    padding: 12px 15px;
+    font-size: 14px;
+  }
+} 

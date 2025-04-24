@@ -1,0 +1,4001 @@
+{
+    "Cleaned_Data": [
+        {
+            "Name of the Company": "MICROSOFT",
+            "sector": "IT",
+            "Salary": 51.0,
+            "Branch": "CSE",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "FLIPKART",
+            "sector": "IT",
+            "Salary": 32.57,
+            "Branch": "CSE",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "QUALCOMM",
+            "sector": "CORE",
+            "Salary": 26.5,
+            "Branch": "CSE",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "EA GAMES",
+            "sector": "IT",
+            "Salary": 24.0,
+            "Branch": "CSE",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "F5 NETWORKS",
+            "sector": "IT",
+            "Salary": 21.6,
+            "Branch": "CSE",
+            "Count": 2
+        },
+        {
+            "Name of the Company": "DESHAW",
+            "sector": "IT",
+            "Salary": 21.0,
+            "Branch": "CSE",
+            "Count": 3
+        },
+        {
+            "Name of the Company": "JP MORGAN CHASE",
+            "sector": "BFSI",
+            "Salary": 19.75,
+            "Branch": "CSE",
+            "Count": 24
+        },
+        {
+            "Name of the Company": "ORACLE",
+            "sector": "IT",
+            "Salary": 19.18,
+            "Branch": "CSE",
+            "Count": 7
+        },
+        {
+            "Name of the Company": "UNPLATFORMS",
+            "sector": "IT",
+            "Salary": 17.0,
+            "Branch": "CSE",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "DARWINBOX",
+            "sector": "IT",
+            "Salary": 16.3,
+            "Branch": "CSE",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "PROVIDENCE",
+            "sector": "IT",
+            "Salary": 13.5,
+            "Branch": "CSE",
+            "Count": 3
+        },
+        {
+            "Name of the Company": "ZENOTI",
+            "sector": "IT",
+            "Salary": 11.47,
+            "Branch": "CSE",
+            "Count": 5
+        },
+        {
+            "Name of the Company": "ACCOLITE DIGITAL",
+            "sector": "IT",
+            "Salary": 11.0,
+            "Branch": "CSE",
+            "Count": 2
+        },
+        {
+            "Name of the Company": "CHUBB",
+            "sector": "BFSI",
+            "Salary": 11.05,
+            "Branch": "CSE",
+            "Count": 7
+        },
+        {
+            "Name of the Company": "ADVANCED AUTO PARTS",
+            "sector": "CORE",
+            "Salary": 11.0,
+            "Branch": "CSE",
+            "Count": 3
+        },
+        {
+            "Name of the Company": "INTERACTIVE BROKERS",
+            "sector": "BFSI",
+            "Salary": 10.6,
+            "Branch": "CSE",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "SYNOPSYS",
+            "sector": "CORE",
+            "Salary": 10.0,
+            "Branch": "CSE",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "SAFERTEK IT SOLUTIONS",
+            "sector": "IT",
+            "Salary": 10.0,
+            "Branch": "CSE",
+            "Count": 3
+        },
+        {
+            "Name of the Company": "INVESCO",
+            "sector": "IT",
+            "Salary": 9.9,
+            "Branch": "CSE",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "S&P GLOBAL",
+            "sector": "IT",
+            "Salary": 9.0,
+            "Branch": "CSE",
+            "Count": 4
+        },
+        {
+            "Name of the Company": "DELL",
+            "sector": "IT",
+            "Salary": 9.0,
+            "Branch": "CSE",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "TCS PRIME",
+            "sector": "IT",
+            "Salary": 9.0,
+            "Branch": "CSE",
+            "Count": 4
+        },
+        {
+            "Name of the Company": "STATE STREET",
+            "sector": "IT",
+            "Salary": 8.6,
+            "Branch": "CSE",
+            "Count": 6
+        },
+        {
+            "Name of the Company": "CAELIUS",
+            "sector": "IT",
+            "Salary": 8.4,
+            "Branch": "CSE",
+            "Count": 2
+        },
+        {
+            "Name of the Company": "REALPAGE",
+            "sector": "IT",
+            "Salary": 8.0,
+            "Branch": "CSE",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "GTM BUDDY",
+            "sector": "IT",
+            "Salary": 8.0,
+            "Branch": "CSE",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "INDIUM SOFTWARE",
+            "sector": "IT",
+            "Salary": 8.0,
+            "Branch": "CSE",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "DATA INSIGHTS",
+            "sector": "IT",
+            "Salary": 8.0,
+            "Branch": "CSE",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "DELOITTE - CONSULTING",
+            "sector": "IT",
+            "Salary": 7.6,
+            "Branch": "CSE",
+            "Count": 11
+        },
+        {
+            "Name of the Company": "RSM",
+            "sector": "IT",
+            "Salary": 7.6,
+            "Branch": "CSE",
+            "Count": 4
+        },
+        {
+            "Name of the Company": "ELENJICAL SOLUTIONS",
+            "sector": "IT",
+            "Salary": 7.15,
+            "Branch": "CSE",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "EDWISELY",
+            "sector": "IT",
+            "Salary": 7.0,
+            "Branch": "CSE",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "DELTAX",
+            "sector": "IT",
+            "Salary": 7.0,
+            "Branch": "CSE",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "ACCELERIZE 360",
+            "sector": "IT",
+            "Salary": 7.0,
+            "Branch": "CSE",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "MERILYTICS",
+            "sector": "IT",
+            "Salary": 6.5,
+            "Branch": "CSE",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "THOMSON REUTERS",
+            "sector": "IT",
+            "Salary": 6.5,
+            "Branch": "CSE",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "STELLANTIS",
+            "sector": "CORE",
+            "Salary": 6.0,
+            "Branch": "CSE",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "PWC",
+            "sector": "IT",
+            "Salary": 6.0,
+            "Branch": "CSE",
+            "Count": 11
+        },
+        {
+            "Name of the Company": "IGNITARIUM",
+            "sector": "IT",
+            "Salary": 6.0,
+            "Branch": "CSE",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "KEYENCE",
+            "sector": "IT",
+            "Salary": 5.59,
+            "Branch": "CSE",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "K&S PARTNERS",
+            "sector": "IT",
+            "Salary": 5.5,
+            "Branch": "CSE",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "BOSCH",
+            "sector": "CORE",
+            "Salary": 5.0,
+            "Branch": "CSE",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "KATALYST",
+            "sector": "IT",
+            "Salary": 5.0,
+            "Branch": "CSE",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "CORIZO",
+            "sector": "CORE",
+            "Salary": 6.5,
+            "Branch": "CSE",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "COLRUYT",
+            "sector": "IT",
+            "Salary": 6.0,
+            "Branch": "CSE",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "TTEC",
+            "sector": "IT",
+            "Salary": 6.0,
+            "Branch": "CSE",
+            "Count": 2
+        },
+        {
+            "Name of the Company": "OMNICLOUD",
+            "sector": "IT",
+            "Salary": 6.0,
+            "Branch": "CSE",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "GLOBAL LOGIC",
+            "sector": "IT",
+            "Salary": 5.5,
+            "Branch": "CSE",
+            "Count": 3
+        },
+        {
+            "Name of the Company": "SADDLEPOINT",
+            "sector": "IT",
+            "Salary": 5.5,
+            "Branch": "CSE",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "KOFLUENCE",
+            "sector": "IT",
+            "Salary": 5.5,
+            "Branch": "CSE",
+            "Count": 5
+        },
+        {
+            "Name of the Company": "CAMPX",
+            "sector": "IT",
+            "Salary": 5.5,
+            "Branch": "CSE",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "IMPAR",
+            "sector": "IT",
+            "Salary": 5.0,
+            "Branch": "CSE",
+            "Count": 4
+        },
+        {
+            "Name of the Company": "JODO",
+            "sector": "CORE",
+            "Salary": 5.0,
+            "Branch": "CSE",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "APTROID",
+            "sector": "IT",
+            "Salary": 5.0,
+            "Branch": "CSE",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "ALIGHT SOLUTIONS",
+            "sector": "IT",
+            "Salary": 5.0,
+            "Branch": "CSE",
+            "Count": 5
+        },
+        {
+            "Name of the Company": "IBM",
+            "sector": "IT",
+            "Salary": 4.5,
+            "Branch": "CSE",
+            "Count": 2
+        },
+        {
+            "Name of the Company": "ACCENTURE",
+            "sector": "IT",
+            "Salary": 4.5,
+            "Branch": "CSE",
+            "Count": 67
+        },
+        {
+            "Name of the Company": "SQUARE YARDS",
+            "sector": "IT",
+            "Salary": 4.5,
+            "Branch": "CSE",
+            "Count": 4
+        },
+        {
+            "Name of the Company": "NYALAZONE",
+            "sector": "IT",
+            "Salary": 4.5,
+            "Branch": "CSE",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "UST",
+            "sector": "IT",
+            "Salary": 4.25,
+            "Branch": "CSE",
+            "Count": 3
+        },
+        {
+            "Name of the Company": "COGNIZANT",
+            "sector": "IT",
+            "Salary": 4.25,
+            "Branch": "CSE",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "UTS",
+            "sector": "IT",
+            "Salary": 4.0,
+            "Branch": "CSE",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "VOLTAS",
+            "sector": "CORE",
+            "Salary": 4.0,
+            "Branch": "CSE",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "CONSTELLY",
+            "sector": "CORE",
+            "Salary": 4.0,
+            "Branch": "CSE",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "AUTOCRACY",
+            "sector": "CORE",
+            "Salary": 4.0,
+            "Branch": "CSE",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "AMARARAJA",
+            "sector": "CORE",
+            "Salary": 4.0,
+            "Branch": "CSE",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "BLUESAPPHIRE",
+            "sector": "IT",
+            "Salary": 4.0,
+            "Branch": "CSE",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "INRHYTHMS",
+            "sector": "IT",
+            "Salary": 4.0,
+            "Branch": "CSE",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "TULAMAN",
+            "sector": "CORE",
+            "Salary": 4.0,
+            "Branch": "CSE",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "HIGH TECHNEXT ENGINEERING & \nTELECOM PVT LTD SELECTED",
+            "sector": "CORE",
+            "Salary": 3.6,
+            "Branch": "CSE",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "AUDREE INFOTECH",
+            "sector": "IT",
+            "Salary": 3.5,
+            "Branch": "CSE",
+            "Count": 5
+        },
+        {
+            "Name of the Company": "GANDOUR",
+            "sector": "IT",
+            "Salary": 3.5,
+            "Branch": "CSE",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "VEM TECHNOLOGIES",
+            "sector": "CORE",
+            "Salary": 3.5,
+            "Branch": "CSE",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "CREAM COLLAR",
+            "sector": "IT",
+            "Salary": 3.5,
+            "Branch": "CSE",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "GREENKO",
+            "sector": "CORE",
+            "Salary": 3.5,
+            "Branch": "CSE",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "VERISK",
+            "sector": "IT",
+            "Salary": 3.5,
+            "Branch": "CSE",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "TECH MAHINDRA",
+            "sector": "IT",
+            "Salary": 3.5,
+            "Branch": "CSE",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "SHAGARON",
+            "sector": "CORE",
+            "Salary": 3.3,
+            "Branch": "CSE",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "AMAZON LMAQ",
+            "sector": "IT",
+            "Salary": 3.2,
+            "Branch": "CSE",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "SATVEN",
+            "sector": "CORE",
+            "Salary": 3.2,
+            "Branch": "CSE",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "ITC",
+            "sector": "CORE",
+            "Salary": 3.0,
+            "Branch": "CSE",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "PROCLINK",
+            "sector": "IT",
+            "Salary": 3.0,
+            "Branch": "CSE",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "BRIGADE",
+            "sector": "CORE",
+            "Salary": 3.0,
+            "Branch": "CSE",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "SATYAVANI",
+            "sector": "CORE",
+            "Salary": 3.0,
+            "Branch": "CSE",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "AHEX TECHNOLOGIES",
+            "sector": "IT",
+            "Salary": 3.0,
+            "Branch": "CSE",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "SRICHAKRA POLYPLAST",
+            "sector": "CORE",
+            "Salary": 2.75,
+            "Branch": "CSE",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "LOKESH MACHINES",
+            "sector": "CORE",
+            "Salary": 2.4,
+            "Branch": "CSE",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "AMAZON-DE",
+            "sector": "IT",
+            "Salary": 2.2,
+            "Branch": "CSE",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "QUALCOMM",
+            "sector": "CORE",
+            "Salary": 26.5,
+            "Branch": "CSBS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "F5 NETWORKS",
+            "sector": "IT",
+            "Salary": 21.6,
+            "Branch": "CSBS",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "DESHAW",
+            "sector": "IT",
+            "Salary": 21.0,
+            "Branch": "CSBS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "JP MORGAN CHASE",
+            "sector": "BFSI",
+            "Salary": 19.75,
+            "Branch": "CSBS",
+            "Count": 2
+        },
+        {
+            "Name of the Company": "ORACLE",
+            "sector": "IT",
+            "Salary": 19.18,
+            "Branch": "CSBS",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "PROVIDENCE",
+            "sector": "IT",
+            "Salary": 13.5,
+            "Branch": "CSBS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "ZENOTI",
+            "sector": "IT",
+            "Salary": 11.47,
+            "Branch": "CSBS",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "ACCOLITE DIGITAL",
+            "sector": "IT",
+            "Salary": 11.0,
+            "Branch": "CSBS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "CHUBB",
+            "sector": "BFSI",
+            "Salary": 11.05,
+            "Branch": "CSBS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "ADVANCED AUTO PARTS",
+            "sector": "CORE",
+            "Salary": 11.0,
+            "Branch": "CSBS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "SAFERTEK IT SOLUTIONS",
+            "sector": "IT",
+            "Salary": 10.0,
+            "Branch": "CSBS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "INVESCO",
+            "sector": "IT",
+            "Salary": 9.9,
+            "Branch": "CSBS",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "S&P GLOBAL",
+            "sector": "IT",
+            "Salary": 9.0,
+            "Branch": "CSBS",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "TCS PRIME",
+            "sector": "IT",
+            "Salary": 9.0,
+            "Branch": "CSBS",
+            "Count": 2
+        },
+        {
+            "Name of the Company": "STATE STREET",
+            "sector": "IT",
+            "Salary": 8.6,
+            "Branch": "CSBS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "CAELIUS",
+            "sector": "IT",
+            "Salary": 8.4,
+            "Branch": "CSBS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "REALPAGE",
+            "sector": "IT",
+            "Salary": 8.0,
+            "Branch": "CSBS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "GTM BUDDY",
+            "sector": "IT",
+            "Salary": 8.0,
+            "Branch": "CSBS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "INDIUM SOFTWARE",
+            "sector": "IT",
+            "Salary": 8.0,
+            "Branch": "CSBS",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "DATA INSIGHTS",
+            "sector": "IT",
+            "Salary": 8.0,
+            "Branch": "CSBS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "DELOITTE - CONSULTING",
+            "sector": "IT",
+            "Salary": 7.6,
+            "Branch": "CSBS",
+            "Count": 4
+        },
+        {
+            "Name of the Company": "RSM",
+            "sector": "IT",
+            "Salary": 7.6,
+            "Branch": "CSBS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "ELENJICAL SOLUTIONS",
+            "sector": "IT",
+            "Salary": 7.15,
+            "Branch": "CSBS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "EDWISELY",
+            "sector": "IT",
+            "Salary": 7.0,
+            "Branch": "CSBS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "DELTAX",
+            "sector": "IT",
+            "Salary": 7.0,
+            "Branch": "CSBS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "ACCELERIZE 360",
+            "sector": "IT",
+            "Salary": 7.0,
+            "Branch": "CSBS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "MERILYTICS",
+            "sector": "IT",
+            "Salary": 6.5,
+            "Branch": "CSBS",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "STELLANTIS",
+            "sector": "CORE",
+            "Salary": 6.0,
+            "Branch": "CSBS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "PWC",
+            "sector": "IT",
+            "Salary": 6.0,
+            "Branch": "CSBS",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "KEYENCE",
+            "sector": "IT",
+            "Salary": 5.59,
+            "Branch": "CSBS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "K&S PARTNERS",
+            "sector": "IT",
+            "Salary": 5.5,
+            "Branch": "CSBS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "KATALYST",
+            "sector": "IT",
+            "Salary": 5.0,
+            "Branch": "CSBS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "CORIZO",
+            "sector": "CORE",
+            "Salary": 6.5,
+            "Branch": "CSBS",
+            "Count": 3
+        },
+        {
+            "Name of the Company": "COLRUYT",
+            "sector": "IT",
+            "Salary": 6.0,
+            "Branch": "CSBS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "TTEC",
+            "sector": "IT",
+            "Salary": 6.0,
+            "Branch": "CSBS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "OMNICLOUD",
+            "sector": "IT",
+            "Salary": 6.0,
+            "Branch": "CSBS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "GLOBAL LOGIC",
+            "sector": "IT",
+            "Salary": 5.5,
+            "Branch": "CSBS",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "SADDLEPOINT",
+            "sector": "IT",
+            "Salary": 5.5,
+            "Branch": "CSBS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "KOFLUENCE",
+            "sector": "IT",
+            "Salary": 5.5,
+            "Branch": "CSBS",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "IMPAR",
+            "sector": "IT",
+            "Salary": 5.0,
+            "Branch": "CSBS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "APTROID",
+            "sector": "IT",
+            "Salary": 5.0,
+            "Branch": "CSBS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "ALIGHT SOLUTIONS",
+            "sector": "IT",
+            "Salary": 5.0,
+            "Branch": "CSBS",
+            "Count": 3
+        },
+        {
+            "Name of the Company": "IBM",
+            "sector": "IT",
+            "Salary": 4.5,
+            "Branch": "CSBS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "ACCENTURE",
+            "sector": "IT",
+            "Salary": 4.5,
+            "Branch": "CSBS",
+            "Count": 15
+        },
+        {
+            "Name of the Company": "SQUARE YARDS",
+            "sector": "IT",
+            "Salary": 4.5,
+            "Branch": "CSBS",
+            "Count": 4
+        },
+        {
+            "Name of the Company": "UST",
+            "sector": "IT",
+            "Salary": 4.25,
+            "Branch": "CSBS",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "UTS",
+            "sector": "IT",
+            "Salary": 4.0,
+            "Branch": "CSBS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "AUDREE INFOTECH",
+            "sector": "IT",
+            "Salary": 3.5,
+            "Branch": "CSBS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "VERISK",
+            "sector": "IT",
+            "Salary": 3.5,
+            "Branch": "CSBS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "TECH MAHINDRA",
+            "sector": "IT",
+            "Salary": 3.5,
+            "Branch": "CSBS",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "SHAGARON",
+            "sector": "CORE",
+            "Salary": 3.3,
+            "Branch": "CSBS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "AMAZON LMAQ",
+            "sector": "IT",
+            "Salary": 3.2,
+            "Branch": "CSBS",
+            "Count": 2
+        },
+        {
+            "Name of the Company": "SATVEN",
+            "sector": "CORE",
+            "Salary": 3.2,
+            "Branch": "CSBS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "ITC",
+            "sector": "CORE",
+            "Salary": 3.0,
+            "Branch": "CSBS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "PROCLINK",
+            "sector": "IT",
+            "Salary": 3.0,
+            "Branch": "CSBS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "BRIGADE",
+            "sector": "CORE",
+            "Salary": 3.0,
+            "Branch": "CSBS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "SATYAVANI",
+            "sector": "CORE",
+            "Salary": 3.0,
+            "Branch": "CSBS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "AHEX TECHNOLOGIES",
+            "sector": "IT",
+            "Salary": 3.0,
+            "Branch": "CSBS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "SRICHAKRA POLYPLAST",
+            "sector": "CORE",
+            "Salary": 2.75,
+            "Branch": "CSBS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "LOKESH MACHINES",
+            "sector": "CORE",
+            "Salary": 2.4,
+            "Branch": "CSBS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "AMAZON-DE",
+            "sector": "IT",
+            "Salary": 2.2,
+            "Branch": "CSBS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "QUALCOMM",
+            "sector": "CORE",
+            "Salary": 26.5,
+            "Branch": "CYS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "F5 NETWORKS",
+            "sector": "IT",
+            "Salary": 21.6,
+            "Branch": "CYS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "DESHAW",
+            "sector": "IT",
+            "Salary": 21.0,
+            "Branch": "CYS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "JP MORGAN CHASE",
+            "sector": "BFSI",
+            "Salary": 19.75,
+            "Branch": "CYS",
+            "Count": 5
+        },
+        {
+            "Name of the Company": "ORACLE",
+            "sector": "IT",
+            "Salary": 19.18,
+            "Branch": "CYS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "PROVIDENCE",
+            "sector": "IT",
+            "Salary": 13.5,
+            "Branch": "CYS",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "ZENOTI",
+            "sector": "IT",
+            "Salary": 11.47,
+            "Branch": "CYS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "ACCOLITE DIGITAL",
+            "sector": "IT",
+            "Salary": 11.0,
+            "Branch": "CYS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "CHUBB",
+            "sector": "BFSI",
+            "Salary": 11.05,
+            "Branch": "CYS",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "ADVANCED AUTO PARTS",
+            "sector": "CORE",
+            "Salary": 11.0,
+            "Branch": "CYS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "SAFERTEK IT SOLUTIONS",
+            "sector": "IT",
+            "Salary": 10.0,
+            "Branch": "CYS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "S&P GLOBAL",
+            "sector": "IT",
+            "Salary": 9.0,
+            "Branch": "CYS",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "STATE STREET",
+            "sector": "IT",
+            "Salary": 8.6,
+            "Branch": "CYS",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "CAELIUS",
+            "sector": "IT",
+            "Salary": 8.4,
+            "Branch": "CYS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "REALPAGE",
+            "sector": "IT",
+            "Salary": 8.0,
+            "Branch": "CYS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "GTM BUDDY",
+            "sector": "IT",
+            "Salary": 8.0,
+            "Branch": "CYS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "INDIUM SOFTWARE",
+            "sector": "IT",
+            "Salary": 8.0,
+            "Branch": "CYS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "DATA INSIGHTS",
+            "sector": "IT",
+            "Salary": 8.0,
+            "Branch": "CYS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "DELOITTE - CONSULTING",
+            "sector": "IT",
+            "Salary": 7.6,
+            "Branch": "CYS",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "RSM",
+            "sector": "IT",
+            "Salary": 7.6,
+            "Branch": "CYS",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "ELENJICAL SOLUTIONS",
+            "sector": "IT",
+            "Salary": 7.15,
+            "Branch": "CYS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "EDWISELY",
+            "sector": "IT",
+            "Salary": 7.0,
+            "Branch": "CYS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "DELTAX",
+            "sector": "IT",
+            "Salary": 7.0,
+            "Branch": "CYS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "ACCELERIZE 360",
+            "sector": "IT",
+            "Salary": 7.0,
+            "Branch": "CYS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "MERILYTICS",
+            "sector": "IT",
+            "Salary": 6.5,
+            "Branch": "CYS",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "STELLANTIS",
+            "sector": "CORE",
+            "Salary": 6.0,
+            "Branch": "CYS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "PWC",
+            "sector": "IT",
+            "Salary": 6.0,
+            "Branch": "CYS",
+            "Count": 2
+        },
+        {
+            "Name of the Company": "KEYENCE",
+            "sector": "IT",
+            "Salary": 5.59,
+            "Branch": "CYS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "K&S PARTNERS",
+            "sector": "IT",
+            "Salary": 5.5,
+            "Branch": "CYS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "KATALYST",
+            "sector": "IT",
+            "Salary": 5.0,
+            "Branch": "CYS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "COLRUYT",
+            "sector": "IT",
+            "Salary": 6.0,
+            "Branch": "CYS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "TTEC",
+            "sector": "IT",
+            "Salary": 6.0,
+            "Branch": "CYS",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "OMNICLOUD",
+            "sector": "IT",
+            "Salary": 6.0,
+            "Branch": "CYS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "GLOBAL LOGIC",
+            "sector": "IT",
+            "Salary": 5.5,
+            "Branch": "CYS",
+            "Count": 3
+        },
+        {
+            "Name of the Company": "SADDLEPOINT",
+            "sector": "IT",
+            "Salary": 5.5,
+            "Branch": "CYS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "KOFLUENCE",
+            "sector": "IT",
+            "Salary": 5.5,
+            "Branch": "CYS",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "IMPAR",
+            "sector": "IT",
+            "Salary": 5.0,
+            "Branch": "CYS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "APTROID",
+            "sector": "IT",
+            "Salary": 5.0,
+            "Branch": "CYS",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "ALIGHT SOLUTIONS",
+            "sector": "IT",
+            "Salary": 5.0,
+            "Branch": "CYS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "IBM",
+            "sector": "IT",
+            "Salary": 4.5,
+            "Branch": "CYS",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "ACCENTURE",
+            "sector": "IT",
+            "Salary": 4.5,
+            "Branch": "CYS",
+            "Count": 21
+        },
+        {
+            "Name of the Company": "SQUARE YARDS",
+            "sector": "IT",
+            "Salary": 4.5,
+            "Branch": "CYS",
+            "Count": 2
+        },
+        {
+            "Name of the Company": "NYALAZONE",
+            "sector": "IT",
+            "Salary": 4.5,
+            "Branch": "CYS",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "UST",
+            "sector": "IT",
+            "Salary": 4.25,
+            "Branch": "CYS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "UTS",
+            "sector": "IT",
+            "Salary": 4.0,
+            "Branch": "CYS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "AUDREE INFOTECH",
+            "sector": "IT",
+            "Salary": 3.5,
+            "Branch": "CYS",
+            "Count": 2
+        },
+        {
+            "Name of the Company": "VERISK",
+            "sector": "IT",
+            "Salary": 3.5,
+            "Branch": "CYS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "TECH MAHINDRA",
+            "sector": "IT",
+            "Salary": 3.5,
+            "Branch": "CYS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "SHAGARON",
+            "sector": "CORE",
+            "Salary": 3.3,
+            "Branch": "CYS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "AMAZON LMAQ",
+            "sector": "IT",
+            "Salary": 3.2,
+            "Branch": "CYS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "SATVEN",
+            "sector": "CORE",
+            "Salary": 3.2,
+            "Branch": "CYS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "ITC",
+            "sector": "CORE",
+            "Salary": 3.0,
+            "Branch": "CYS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "PROCLINK",
+            "sector": "IT",
+            "Salary": 3.0,
+            "Branch": "CYS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "BRIGADE",
+            "sector": "CORE",
+            "Salary": 3.0,
+            "Branch": "CYS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "SATYAVANI",
+            "sector": "CORE",
+            "Salary": 3.0,
+            "Branch": "CYS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "AHEX TECHNOLOGIES",
+            "sector": "IT",
+            "Salary": 3.0,
+            "Branch": "CYS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "SRICHAKRA POLYPLAST",
+            "sector": "CORE",
+            "Salary": 2.75,
+            "Branch": "CYS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "LOKESH MACHINES",
+            "sector": "CORE",
+            "Salary": 2.4,
+            "Branch": "CYS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "AMAZON-DE",
+            "sector": "IT",
+            "Salary": 2.2,
+            "Branch": "CYS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "MICROSOFT",
+            "sector": "IT",
+            "Salary": 51.0,
+            "Branch": "AIML",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "QUALCOMM",
+            "sector": "CORE",
+            "Salary": 26.5,
+            "Branch": "AIML",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "F5 NETWORKS",
+            "sector": "IT",
+            "Salary": 21.6,
+            "Branch": "AIML",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "DESHAW",
+            "sector": "IT",
+            "Salary": 21.0,
+            "Branch": "AIML",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "JP MORGAN CHASE",
+            "sector": "BFSI",
+            "Salary": 19.75,
+            "Branch": "AIML",
+            "Count": 6
+        },
+        {
+            "Name of the Company": "ORACLE",
+            "sector": "IT",
+            "Salary": 19.18,
+            "Branch": "AIML",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "PROVIDENCE",
+            "sector": "IT",
+            "Salary": 13.5,
+            "Branch": "AIML",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "ZENOTI",
+            "sector": "IT",
+            "Salary": 11.47,
+            "Branch": "AIML",
+            "Count": 3
+        },
+        {
+            "Name of the Company": "ACCOLITE DIGITAL",
+            "sector": "IT",
+            "Salary": 11.0,
+            "Branch": "AIML",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "CHUBB",
+            "sector": "BFSI",
+            "Salary": 11.05,
+            "Branch": "AIML",
+            "Count": 4
+        },
+        {
+            "Name of the Company": "ADVANCED AUTO PARTS",
+            "sector": "CORE",
+            "Salary": 11.0,
+            "Branch": "AIML",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "SAFERTEK IT SOLUTIONS",
+            "sector": "IT",
+            "Salary": 10.0,
+            "Branch": "AIML",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "S&P GLOBAL",
+            "sector": "IT",
+            "Salary": 9.0,
+            "Branch": "AIML",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "STATE STREET",
+            "sector": "IT",
+            "Salary": 8.6,
+            "Branch": "AIML",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "CAELIUS",
+            "sector": "IT",
+            "Salary": 8.4,
+            "Branch": "AIML",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "REALPAGE",
+            "sector": "IT",
+            "Salary": 8.0,
+            "Branch": "AIML",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "GTM BUDDY",
+            "sector": "IT",
+            "Salary": 8.0,
+            "Branch": "AIML",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "INDIUM SOFTWARE",
+            "sector": "IT",
+            "Salary": 8.0,
+            "Branch": "AIML",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "DATA INSIGHTS",
+            "sector": "IT",
+            "Salary": 8.0,
+            "Branch": "AIML",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "DELOITTE - CONSULTING",
+            "sector": "IT",
+            "Salary": 7.6,
+            "Branch": "AIML",
+            "Count": 4
+        },
+        {
+            "Name of the Company": "RSM",
+            "sector": "IT",
+            "Salary": 7.6,
+            "Branch": "AIML",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "ELENJICAL SOLUTIONS",
+            "sector": "IT",
+            "Salary": 7.15,
+            "Branch": "AIML",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "EDWISELY",
+            "sector": "IT",
+            "Salary": 7.0,
+            "Branch": "AIML",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "DELTAX",
+            "sector": "IT",
+            "Salary": 7.0,
+            "Branch": "AIML",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "ACCELERIZE 360",
+            "sector": "IT",
+            "Salary": 7.0,
+            "Branch": "AIML",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "MERILYTICS",
+            "sector": "IT",
+            "Salary": 6.5,
+            "Branch": "AIML",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "STELLANTIS",
+            "sector": "CORE",
+            "Salary": 6.0,
+            "Branch": "AIML",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "PWC",
+            "sector": "IT",
+            "Salary": 6.0,
+            "Branch": "AIML",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "KEYENCE",
+            "sector": "IT",
+            "Salary": 5.59,
+            "Branch": "AIML",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "K&S PARTNERS",
+            "sector": "IT",
+            "Salary": 5.5,
+            "Branch": "AIML",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "KATALYST",
+            "sector": "IT",
+            "Salary": 5.0,
+            "Branch": "AIML",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "COLRUYT",
+            "sector": "IT",
+            "Salary": 6.0,
+            "Branch": "AIML",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "TTEC",
+            "sector": "IT",
+            "Salary": 6.0,
+            "Branch": "AIML",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "OMNICLOUD",
+            "sector": "IT",
+            "Salary": 6.0,
+            "Branch": "AIML",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "GLOBAL LOGIC",
+            "sector": "IT",
+            "Salary": 5.5,
+            "Branch": "AIML",
+            "Count": 3
+        },
+        {
+            "Name of the Company": "SADDLEPOINT",
+            "sector": "IT",
+            "Salary": 5.5,
+            "Branch": "AIML",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "IMPAR",
+            "sector": "IT",
+            "Salary": 5.0,
+            "Branch": "AIML",
+            "Count": 2
+        },
+        {
+            "Name of the Company": "APTROID",
+            "sector": "IT",
+            "Salary": 5.0,
+            "Branch": "AIML",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "ALIGHT SOLUTIONS",
+            "sector": "IT",
+            "Salary": 5.0,
+            "Branch": "AIML",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "IBM",
+            "sector": "IT",
+            "Salary": 4.5,
+            "Branch": "AIML",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "ACCENTURE",
+            "sector": "IT",
+            "Salary": 4.5,
+            "Branch": "AIML",
+            "Count": 14
+        },
+        {
+            "Name of the Company": "UST",
+            "sector": "IT",
+            "Salary": 4.25,
+            "Branch": "AIML",
+            "Count": 3
+        },
+        {
+            "Name of the Company": "UTS",
+            "sector": "IT",
+            "Salary": 4.0,
+            "Branch": "AIML",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "BLUESAPPHIRE",
+            "sector": "IT",
+            "Salary": 4.0,
+            "Branch": "AIML",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "AUDREE INFOTECH",
+            "sector": "IT",
+            "Salary": 3.5,
+            "Branch": "AIML",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "CREAM COLLAR",
+            "sector": "IT",
+            "Salary": 3.5,
+            "Branch": "AIML",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "VERISK",
+            "sector": "IT",
+            "Salary": 3.5,
+            "Branch": "AIML",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "TECH MAHINDRA",
+            "sector": "IT",
+            "Salary": 3.5,
+            "Branch": "AIML",
+            "Count": 2
+        },
+        {
+            "Name of the Company": "SHAGARON",
+            "sector": "CORE",
+            "Salary": 3.3,
+            "Branch": "AIML",
+            "Count": 2
+        },
+        {
+            "Name of the Company": "AMAZON LMAQ",
+            "sector": "IT",
+            "Salary": 3.2,
+            "Branch": "AIML",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "SATVEN",
+            "sector": "CORE",
+            "Salary": 3.2,
+            "Branch": "AIML",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "ITC",
+            "sector": "CORE",
+            "Salary": 3.0,
+            "Branch": "AIML",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "PROCLINK",
+            "sector": "IT",
+            "Salary": 3.0,
+            "Branch": "AIML",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "BRIGADE",
+            "sector": "CORE",
+            "Salary": 3.0,
+            "Branch": "AIML",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "SATYAVANI",
+            "sector": "CORE",
+            "Salary": 3.0,
+            "Branch": "AIML",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "AHEX TECHNOLOGIES",
+            "sector": "IT",
+            "Salary": 3.0,
+            "Branch": "AIML",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "SRICHAKRA POLYPLAST",
+            "sector": "CORE",
+            "Salary": 2.75,
+            "Branch": "AIML",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "LOKESH MACHINES",
+            "sector": "CORE",
+            "Salary": 2.4,
+            "Branch": "AIML",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "AMAZON-DE",
+            "sector": "IT",
+            "Salary": 2.2,
+            "Branch": "AIML",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "QUALCOMM",
+            "sector": "CORE",
+            "Salary": 26.5,
+            "Branch": "DS",
+            "Count": 2
+        },
+        {
+            "Name of the Company": "F5 NETWORKS",
+            "sector": "IT",
+            "Salary": 21.6,
+            "Branch": "DS",
+            "Count": 2
+        },
+        {
+            "Name of the Company": "DESHAW",
+            "sector": "IT",
+            "Salary": 21.0,
+            "Branch": "DS",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "JP MORGAN CHASE",
+            "sector": "BFSI",
+            "Salary": 19.75,
+            "Branch": "DS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "ORACLE",
+            "sector": "IT",
+            "Salary": 19.18,
+            "Branch": "DS",
+            "Count": 3
+        },
+        {
+            "Name of the Company": "UNPLATFORMS",
+            "sector": "IT",
+            "Salary": 17.0,
+            "Branch": "DS",
+            "Count": 3
+        },
+        {
+            "Name of the Company": "PROVIDENCE",
+            "sector": "IT",
+            "Salary": 13.5,
+            "Branch": "DS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "ZENOTI",
+            "sector": "IT",
+            "Salary": 11.47,
+            "Branch": "DS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "ACCOLITE DIGITAL",
+            "sector": "IT",
+            "Salary": 11.0,
+            "Branch": "DS",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "CHUBB",
+            "sector": "BFSI",
+            "Salary": 11.05,
+            "Branch": "DS",
+            "Count": 3
+        },
+        {
+            "Name of the Company": "ADVANCED AUTO PARTS",
+            "sector": "CORE",
+            "Salary": 11.0,
+            "Branch": "DS",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "SAFERTEK IT SOLUTIONS",
+            "sector": "IT",
+            "Salary": 10.0,
+            "Branch": "DS",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "S&P GLOBAL",
+            "sector": "IT",
+            "Salary": 9.0,
+            "Branch": "DS",
+            "Count": 2
+        },
+        {
+            "Name of the Company": "TCS PRIME",
+            "sector": "IT",
+            "Salary": 9.0,
+            "Branch": "DS",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "STATE STREET",
+            "sector": "IT",
+            "Salary": 8.6,
+            "Branch": "DS",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "CAELIUS",
+            "sector": "IT",
+            "Salary": 8.4,
+            "Branch": "DS",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "REALPAGE",
+            "sector": "IT",
+            "Salary": 8.0,
+            "Branch": "DS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "GTM BUDDY",
+            "sector": "IT",
+            "Salary": 8.0,
+            "Branch": "DS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "INDIUM SOFTWARE",
+            "sector": "IT",
+            "Salary": 8.0,
+            "Branch": "DS",
+            "Count": 2
+        },
+        {
+            "Name of the Company": "DATA INSIGHTS",
+            "sector": "IT",
+            "Salary": 8.0,
+            "Branch": "DS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "DELOITTE - CONSULTING",
+            "sector": "IT",
+            "Salary": 7.6,
+            "Branch": "DS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "RSM",
+            "sector": "IT",
+            "Salary": 7.6,
+            "Branch": "DS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "ELENJICAL SOLUTIONS",
+            "sector": "IT",
+            "Salary": 7.15,
+            "Branch": "DS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "EDWISELY",
+            "sector": "IT",
+            "Salary": 7.0,
+            "Branch": "DS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "DELTAX",
+            "sector": "IT",
+            "Salary": 7.0,
+            "Branch": "DS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "ACCELERIZE 360",
+            "sector": "IT",
+            "Salary": 7.0,
+            "Branch": "DS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "MERILYTICS",
+            "sector": "IT",
+            "Salary": 6.5,
+            "Branch": "DS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "STELLANTIS",
+            "sector": "CORE",
+            "Salary": 6.0,
+            "Branch": "DS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "PWC",
+            "sector": "IT",
+            "Salary": 6.0,
+            "Branch": "DS",
+            "Count": 4
+        },
+        {
+            "Name of the Company": "KEYENCE",
+            "sector": "IT",
+            "Salary": 5.59,
+            "Branch": "DS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "K&S PARTNERS",
+            "sector": "IT",
+            "Salary": 5.5,
+            "Branch": "DS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "KATALYST",
+            "sector": "IT",
+            "Salary": 5.0,
+            "Branch": "DS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "CORIZO",
+            "sector": "CORE",
+            "Salary": 6.5,
+            "Branch": "DS",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "COLRUYT",
+            "sector": "IT",
+            "Salary": 6.0,
+            "Branch": "DS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "TTEC",
+            "sector": "IT",
+            "Salary": 6.0,
+            "Branch": "DS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "OMNICLOUD",
+            "sector": "IT",
+            "Salary": 6.0,
+            "Branch": "DS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "GLOBAL LOGIC",
+            "sector": "IT",
+            "Salary": 5.5,
+            "Branch": "DS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "SADDLEPOINT",
+            "sector": "IT",
+            "Salary": 5.5,
+            "Branch": "DS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "IMPAR",
+            "sector": "IT",
+            "Salary": 5.0,
+            "Branch": "DS",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "APTROID",
+            "sector": "IT",
+            "Salary": 5.0,
+            "Branch": "DS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "ALIGHT SOLUTIONS",
+            "sector": "IT",
+            "Salary": 5.0,
+            "Branch": "DS",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "IBM",
+            "sector": "IT",
+            "Salary": 4.5,
+            "Branch": "DS",
+            "Count": 2
+        },
+        {
+            "Name of the Company": "ACCENTURE",
+            "sector": "IT",
+            "Salary": 4.5,
+            "Branch": "DS",
+            "Count": 20
+        },
+        {
+            "Name of the Company": "UST",
+            "sector": "IT",
+            "Salary": 4.25,
+            "Branch": "DS",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "UTS",
+            "sector": "IT",
+            "Salary": 4.0,
+            "Branch": "DS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "AUDREE INFOTECH",
+            "sector": "IT",
+            "Salary": 3.5,
+            "Branch": "DS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "VERISK",
+            "sector": "IT",
+            "Salary": 3.5,
+            "Branch": "DS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "TECH MAHINDRA",
+            "sector": "IT",
+            "Salary": 3.5,
+            "Branch": "DS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "SHAGARON",
+            "sector": "CORE",
+            "Salary": 3.3,
+            "Branch": "DS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "AMAZON LMAQ",
+            "sector": "IT",
+            "Salary": 3.2,
+            "Branch": "DS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "SATVEN",
+            "sector": "CORE",
+            "Salary": 3.2,
+            "Branch": "DS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "ITC",
+            "sector": "CORE",
+            "Salary": 3.0,
+            "Branch": "DS",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "PROCLINK",
+            "sector": "IT",
+            "Salary": 3.0,
+            "Branch": "DS",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "AHEX TECHNOLOGIES",
+            "sector": "IT",
+            "Salary": 3.0,
+            "Branch": "DS",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "FLIPKART",
+            "sector": "IT",
+            "Salary": 32.57,
+            "Branch": "IOT",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "QUALCOMM",
+            "sector": "CORE",
+            "Salary": 26.5,
+            "Branch": "IOT",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "F5 NETWORKS",
+            "sector": "IT",
+            "Salary": 21.6,
+            "Branch": "IOT",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "DESHAW",
+            "sector": "IT",
+            "Salary": 21.0,
+            "Branch": "IOT",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "JP MORGAN CHASE",
+            "sector": "BFSI",
+            "Salary": 19.75,
+            "Branch": "IOT",
+            "Count": 6
+        },
+        {
+            "Name of the Company": "ORACLE",
+            "sector": "IT",
+            "Salary": 19.18,
+            "Branch": "IOT",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "DARWINBOX",
+            "sector": "IT",
+            "Salary": 16.3,
+            "Branch": "IOT",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "PROVIDENCE",
+            "sector": "IT",
+            "Salary": 13.5,
+            "Branch": "IOT",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "ZENOTI",
+            "sector": "IT",
+            "Salary": 11.47,
+            "Branch": "IOT",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "ACCOLITE DIGITAL",
+            "sector": "IT",
+            "Salary": 11.0,
+            "Branch": "IOT",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "CHUBB",
+            "sector": "BFSI",
+            "Salary": 11.05,
+            "Branch": "IOT",
+            "Count": 2
+        },
+        {
+            "Name of the Company": "ADVANCED AUTO PARTS",
+            "sector": "CORE",
+            "Salary": 11.0,
+            "Branch": "IOT",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "SAFERTEK IT SOLUTIONS",
+            "sector": "IT",
+            "Salary": 10.0,
+            "Branch": "IOT",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "S&P GLOBAL",
+            "sector": "IT",
+            "Salary": 9.0,
+            "Branch": "IOT",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "TCS PRIME",
+            "sector": "IT",
+            "Salary": 9.0,
+            "Branch": "IOT",
+            "Count": 2
+        },
+        {
+            "Name of the Company": "STATE STREET",
+            "sector": "IT",
+            "Salary": 8.6,
+            "Branch": "IOT",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "REALPAGE",
+            "sector": "IT",
+            "Salary": 8.0,
+            "Branch": "IOT",
+            "Count": 2
+        },
+        {
+            "Name of the Company": "GTM BUDDY",
+            "sector": "IT",
+            "Salary": 8.0,
+            "Branch": "IOT",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "DATA INSIGHTS",
+            "sector": "IT",
+            "Salary": 8.0,
+            "Branch": "IOT",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "DELOITTE - CONSULTING",
+            "sector": "IT",
+            "Salary": 7.6,
+            "Branch": "IOT",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "RSM",
+            "sector": "IT",
+            "Salary": 7.6,
+            "Branch": "IOT",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "EDWISELY",
+            "sector": "IT",
+            "Salary": 7.0,
+            "Branch": "IOT",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "DELTAX",
+            "sector": "IT",
+            "Salary": 7.0,
+            "Branch": "IOT",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "ACCELERIZE 360",
+            "sector": "IT",
+            "Salary": 7.0,
+            "Branch": "IOT",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "MERILYTICS",
+            "sector": "IT",
+            "Salary": 6.5,
+            "Branch": "IOT",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "STELLANTIS",
+            "sector": "CORE",
+            "Salary": 6.0,
+            "Branch": "IOT",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "PWC",
+            "sector": "IT",
+            "Salary": 6.0,
+            "Branch": "IOT",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "KEYENCE",
+            "sector": "IT",
+            "Salary": 5.59,
+            "Branch": "IOT",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "K&S PARTNERS",
+            "sector": "IT",
+            "Salary": 5.5,
+            "Branch": "IOT",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "KATALYST",
+            "sector": "IT",
+            "Salary": 5.0,
+            "Branch": "IOT",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "CORIZO",
+            "sector": "CORE",
+            "Salary": 6.5,
+            "Branch": "IOT",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "COLRUYT",
+            "sector": "IT",
+            "Salary": 6.0,
+            "Branch": "IOT",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "TTEC",
+            "sector": "IT",
+            "Salary": 6.0,
+            "Branch": "IOT",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "OMNICLOUD",
+            "sector": "IT",
+            "Salary": 6.0,
+            "Branch": "IOT",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "GLOBAL LOGIC",
+            "sector": "IT",
+            "Salary": 5.5,
+            "Branch": "IOT",
+            "Count": 6
+        },
+        {
+            "Name of the Company": "SADDLEPOINT",
+            "sector": "IT",
+            "Salary": 5.5,
+            "Branch": "IOT",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "IMPAR",
+            "sector": "IT",
+            "Salary": 5.0,
+            "Branch": "IOT",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "APTROID",
+            "sector": "IT",
+            "Salary": 5.0,
+            "Branch": "IOT",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "ALIGHT SOLUTIONS",
+            "sector": "IT",
+            "Salary": 5.0,
+            "Branch": "IOT",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "IBM",
+            "sector": "IT",
+            "Salary": 4.5,
+            "Branch": "IOT",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "ACCENTURE",
+            "sector": "IT",
+            "Salary": 4.5,
+            "Branch": "IOT",
+            "Count": 16
+        },
+        {
+            "Name of the Company": "SQUARE YARDS",
+            "sector": "IT",
+            "Salary": 4.5,
+            "Branch": "IOT",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "UST",
+            "sector": "IT",
+            "Salary": 4.25,
+            "Branch": "IOT",
+            "Count": 5
+        },
+        {
+            "Name of the Company": "UTS",
+            "sector": "IT",
+            "Salary": 4.0,
+            "Branch": "IOT",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "VOLTAS",
+            "sector": "CORE",
+            "Salary": 4.0,
+            "Branch": "IOT",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "CONSTELLY",
+            "sector": "CORE",
+            "Salary": 4.0,
+            "Branch": "IOT",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "AUTOCRACY",
+            "sector": "CORE",
+            "Salary": 4.0,
+            "Branch": "IOT",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "AMARARAJA",
+            "sector": "CORE",
+            "Salary": 4.0,
+            "Branch": "IOT",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "BLUESAPPHIRE",
+            "sector": "IT",
+            "Salary": 4.0,
+            "Branch": "IOT",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "INRHYTHMS",
+            "sector": "IT",
+            "Salary": 4.0,
+            "Branch": "IOT",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "TULAMAN",
+            "sector": "CORE",
+            "Salary": 4.0,
+            "Branch": "IOT",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "HIGH TECHNEXT ENGINEERING & \nTELECOM PVT LTD SELECTED",
+            "sector": "CORE",
+            "Salary": 3.6,
+            "Branch": "IOT",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "AUDREE INFOTECH",
+            "sector": "IT",
+            "Salary": 3.5,
+            "Branch": "IOT",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "GANDOUR",
+            "sector": "IT",
+            "Salary": 3.5,
+            "Branch": "IOT",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "VEM TECHNOLOGIES",
+            "sector": "CORE",
+            "Salary": 3.5,
+            "Branch": "IOT",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "CREAM COLLAR",
+            "sector": "IT",
+            "Salary": 3.5,
+            "Branch": "IOT",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "PRAYOJAKA",
+            "sector": "IT",
+            "Salary": 3.5,
+            "Branch": "IOT",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "GREENKO",
+            "sector": "CORE",
+            "Salary": 3.5,
+            "Branch": "IOT",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "VERISK",
+            "sector": "IT",
+            "Salary": 3.5,
+            "Branch": "IOT",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "TECH MAHINDRA",
+            "sector": "IT",
+            "Salary": 3.5,
+            "Branch": "IOT",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "AMAZON LMAQ",
+            "sector": "IT",
+            "Salary": 3.2,
+            "Branch": "IOT",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "AHEX TECHNOLOGIES",
+            "sector": "IT",
+            "Salary": 3.0,
+            "Branch": "IOT",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "QUALCOMM",
+            "sector": "CORE",
+            "Salary": 26.5,
+            "Branch": "IT",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "F5 NETWORKS",
+            "sector": "IT",
+            "Salary": 21.6,
+            "Branch": "IT",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "DESHAW",
+            "sector": "IT",
+            "Salary": 21.0,
+            "Branch": "IT",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "JP MORGAN CHASE",
+            "sector": "BFSI",
+            "Salary": 19.75,
+            "Branch": "IT",
+            "Count": 9
+        },
+        {
+            "Name of the Company": "ORACLE",
+            "sector": "IT",
+            "Salary": 19.18,
+            "Branch": "IT",
+            "Count": 3
+        },
+        {
+            "Name of the Company": "PROVIDENCE",
+            "sector": "IT",
+            "Salary": 13.5,
+            "Branch": "IT",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "ZENOTI",
+            "sector": "IT",
+            "Salary": 11.47,
+            "Branch": "IT",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "ACCOLITE DIGITAL",
+            "sector": "IT",
+            "Salary": 11.0,
+            "Branch": "IT",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "CHUBB",
+            "sector": "BFSI",
+            "Salary": 11.05,
+            "Branch": "IT",
+            "Count": 7
+        },
+        {
+            "Name of the Company": "SAFERTEK IT SOLUTIONS",
+            "sector": "IT",
+            "Salary": 10.0,
+            "Branch": "IT",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "TCS PRIME",
+            "sector": "IT",
+            "Salary": 9.0,
+            "Branch": "IT",
+            "Count": 4
+        },
+        {
+            "Name of the Company": "STATE STREET",
+            "sector": "IT",
+            "Salary": 8.6,
+            "Branch": "IT",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "REALPAGE",
+            "sector": "IT",
+            "Salary": 8.0,
+            "Branch": "IT",
+            "Count": 3
+        },
+        {
+            "Name of the Company": "GTM BUDDY",
+            "sector": "IT",
+            "Salary": 8.0,
+            "Branch": "IT",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "INDIUM SOFTWARE",
+            "sector": "IT",
+            "Salary": 8.0,
+            "Branch": "IT",
+            "Count": 3
+        },
+        {
+            "Name of the Company": "DATA INSIGHTS",
+            "sector": "IT",
+            "Salary": 8.0,
+            "Branch": "IT",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "DELOITTE - CONSULTING",
+            "sector": "IT",
+            "Salary": 7.6,
+            "Branch": "IT",
+            "Count": 6
+        },
+        {
+            "Name of the Company": "RSM",
+            "sector": "IT",
+            "Salary": 7.6,
+            "Branch": "IT",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "ELENJICAL SOLUTIONS",
+            "sector": "IT",
+            "Salary": 7.15,
+            "Branch": "IT",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "EDWISELY",
+            "sector": "IT",
+            "Salary": 7.0,
+            "Branch": "IT",
+            "Count": 2
+        },
+        {
+            "Name of the Company": "DELTAX",
+            "sector": "IT",
+            "Salary": 7.0,
+            "Branch": "IT",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "ACCELERIZE 360",
+            "sector": "IT",
+            "Salary": 7.0,
+            "Branch": "IT",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "MERILYTICS",
+            "sector": "IT",
+            "Salary": 6.5,
+            "Branch": "IT",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "STELLANTIS",
+            "sector": "CORE",
+            "Salary": 6.0,
+            "Branch": "IT",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "PWC",
+            "sector": "IT",
+            "Salary": 6.0,
+            "Branch": "IT",
+            "Count": 3
+        },
+        {
+            "Name of the Company": "KEYENCE",
+            "sector": "IT",
+            "Salary": 5.59,
+            "Branch": "IT",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "K&S PARTNERS",
+            "sector": "IT",
+            "Salary": 5.5,
+            "Branch": "IT",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "KATALYST",
+            "sector": "IT",
+            "Salary": 5.0,
+            "Branch": "IT",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "CORIZO",
+            "sector": "CORE",
+            "Salary": 6.5,
+            "Branch": "IT",
+            "Count": 2
+        },
+        {
+            "Name of the Company": "COLRUYT",
+            "sector": "IT",
+            "Salary": 6.0,
+            "Branch": "IT",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "TTEC",
+            "sector": "IT",
+            "Salary": 6.0,
+            "Branch": "IT",
+            "Count": 3
+        },
+        {
+            "Name of the Company": "OMNICLOUD",
+            "sector": "IT",
+            "Salary": 6.0,
+            "Branch": "IT",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "GLOBAL LOGIC",
+            "sector": "IT",
+            "Salary": 5.5,
+            "Branch": "IT",
+            "Count": 8
+        },
+        {
+            "Name of the Company": "SADDLEPOINT",
+            "sector": "IT",
+            "Salary": 5.5,
+            "Branch": "IT",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "KOFLUENCE",
+            "sector": "IT",
+            "Salary": 5.5,
+            "Branch": "IT",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "IMPAR",
+            "sector": "IT",
+            "Salary": 5.0,
+            "Branch": "IT",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "APTROID",
+            "sector": "IT",
+            "Salary": 5.0,
+            "Branch": "IT",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "ALIGHT SOLUTIONS",
+            "sector": "IT",
+            "Salary": 5.0,
+            "Branch": "IT",
+            "Count": 2
+        },
+        {
+            "Name of the Company": "IBM",
+            "sector": "IT",
+            "Salary": 4.5,
+            "Branch": "IT",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "ACCENTURE",
+            "sector": "IT",
+            "Salary": 4.5,
+            "Branch": "IT",
+            "Count": 40
+        },
+        {
+            "Name of the Company": "SQUARE YARDS",
+            "sector": "IT",
+            "Salary": 4.5,
+            "Branch": "IT",
+            "Count": 2
+        },
+        {
+            "Name of the Company": "NYALAZONE",
+            "sector": "IT",
+            "Salary": 4.5,
+            "Branch": "IT",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "UST",
+            "sector": "IT",
+            "Salary": 4.25,
+            "Branch": "IT",
+            "Count": 3
+        },
+        {
+            "Name of the Company": "UTS",
+            "sector": "IT",
+            "Salary": 4.0,
+            "Branch": "IT",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "BLUESAPPHIRE",
+            "sector": "IT",
+            "Salary": 4.0,
+            "Branch": "IT",
+            "Count": 2
+        },
+        {
+            "Name of the Company": "INRHYTHMS",
+            "sector": "IT",
+            "Salary": 4.0,
+            "Branch": "IT",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "AUDREE INFOTECH",
+            "sector": "IT",
+            "Salary": 3.5,
+            "Branch": "IT",
+            "Count": 2
+        },
+        {
+            "Name of the Company": "VERISK",
+            "sector": "IT",
+            "Salary": 3.5,
+            "Branch": "IT",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "TECH MAHINDRA",
+            "sector": "IT",
+            "Salary": 3.5,
+            "Branch": "IT",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "AMAZON LMAQ",
+            "sector": "IT",
+            "Salary": 3.2,
+            "Branch": "IT",
+            "Count": 2
+        },
+        {
+            "Name of the Company": "PROCLINK",
+            "sector": "IT",
+            "Salary": 3.0,
+            "Branch": "IT",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "AHEX TECHNOLOGIES",
+            "sector": "IT",
+            "Salary": 3.0,
+            "Branch": "IT",
+            "Count": 2
+        },
+        {
+            "Name of the Company": "AMAZON-DE",
+            "sector": "IT",
+            "Salary": 2.2,
+            "Branch": "IT",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "JP MORGAN CHASE",
+            "sector": "BFSI",
+            "Salary": 19.75,
+            "Branch": "ECE",
+            "Count": 4
+        },
+        {
+            "Name of the Company": "ORACLE",
+            "sector": "IT",
+            "Salary": 19.18,
+            "Branch": "ECE",
+            "Count": 2
+        },
+        {
+            "Name of the Company": "ZENOTI",
+            "sector": "IT",
+            "Salary": 11.47,
+            "Branch": "ECE",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "ACCOLITE DIGITAL",
+            "sector": "IT",
+            "Salary": 11.0,
+            "Branch": "ECE",
+            "Count": 2
+        },
+        {
+            "Name of the Company": "SYNOPSYS",
+            "sector": "CORE",
+            "Salary": 10.0,
+            "Branch": "ECE",
+            "Count": 3
+        },
+        {
+            "Name of the Company": "TCS PRIME",
+            "sector": "IT",
+            "Salary": 9.0,
+            "Branch": "ECE",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "STATE STREET",
+            "sector": "IT",
+            "Salary": 8.6,
+            "Branch": "ECE",
+            "Count": 2
+        },
+        {
+            "Name of the Company": "DELOITTE - CONSULTING",
+            "sector": "IT",
+            "Salary": 7.6,
+            "Branch": "ECE",
+            "Count": 16
+        },
+        {
+            "Name of the Company": "ZF INDIA",
+            "sector": "CORE",
+            "Salary": 7.25,
+            "Branch": "ECE",
+            "Count": 17
+        },
+        {
+            "Name of the Company": "DELTAX",
+            "sector": "IT",
+            "Salary": 7.0,
+            "Branch": "ECE",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "MERILYTICS",
+            "sector": "IT",
+            "Salary": 6.5,
+            "Branch": "ECE",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "STELLANTIS",
+            "sector": "CORE",
+            "Salary": 6.0,
+            "Branch": "ECE",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "PWC",
+            "sector": "IT",
+            "Salary": 6.0,
+            "Branch": "ECE",
+            "Count": 3
+        },
+        {
+            "Name of the Company": "KEYENCE",
+            "sector": "IT",
+            "Salary": 5.59,
+            "Branch": "ECE",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "K&S PARTNERS",
+            "sector": "IT",
+            "Salary": 5.5,
+            "Branch": "ECE",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "CORIZO",
+            "sector": "CORE",
+            "Salary": 6.5,
+            "Branch": "ECE",
+            "Count": 3
+        },
+        {
+            "Name of the Company": "COLRUYT",
+            "sector": "IT",
+            "Salary": 6.0,
+            "Branch": "ECE",
+            "Count": 3
+        },
+        {
+            "Name of the Company": "GLOBAL LOGIC",
+            "sector": "IT",
+            "Salary": 5.5,
+            "Branch": "ECE",
+            "Count": 5
+        },
+        {
+            "Name of the Company": "SADDLEPOINT",
+            "sector": "IT",
+            "Salary": 5.5,
+            "Branch": "ECE",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "WORLEY",
+            "sector": "IT",
+            "Salary": 5.15,
+            "Branch": "ECE",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "JODO",
+            "sector": "CORE",
+            "Salary": 5.0,
+            "Branch": "ECE",
+            "Count": 2
+        },
+        {
+            "Name of the Company": "IBM",
+            "sector": "IT",
+            "Salary": 4.5,
+            "Branch": "ECE",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "MITT.ARV",
+            "sector": "IT",
+            "Salary": 4.5,
+            "Branch": "ECE",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "ACCENTURE",
+            "sector": "IT",
+            "Salary": 4.5,
+            "Branch": "ECE",
+            "Count": 57
+        },
+        {
+            "Name of the Company": "SQUARE YARDS",
+            "sector": "IT",
+            "Salary": 4.5,
+            "Branch": "ECE",
+            "Count": 13
+        },
+        {
+            "Name of the Company": "UTS",
+            "sector": "IT",
+            "Salary": 4.0,
+            "Branch": "ECE",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "CONSTELLY",
+            "sector": "CORE",
+            "Salary": 4.0,
+            "Branch": "ECE",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "TULAMAN",
+            "sector": "CORE",
+            "Salary": 4.0,
+            "Branch": "ECE",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "HIGH TECHNEXT ENGINEERING & \nTELECOM PVT LTD SELECTED",
+            "sector": "CORE",
+            "Salary": 3.6,
+            "Branch": "ECE",
+            "Count": 5
+        },
+        {
+            "Name of the Company": "AUDREE INFOTECH",
+            "sector": "IT",
+            "Salary": 3.5,
+            "Branch": "ECE",
+            "Count": 3
+        },
+        {
+            "Name of the Company": "VEM TECHNOLOGIES",
+            "sector": "CORE",
+            "Salary": 3.5,
+            "Branch": "ECE",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "PRAYOJAKA",
+            "sector": "IT",
+            "Salary": 3.5,
+            "Branch": "ECE",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "VERISK",
+            "sector": "IT",
+            "Salary": 3.5,
+            "Branch": "ECE",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "TECH MAHINDRA",
+            "sector": "IT",
+            "Salary": 3.5,
+            "Branch": "ECE",
+            "Count": 24
+        },
+        {
+            "Name of the Company": "AMAZON LMAQ",
+            "sector": "IT",
+            "Salary": 3.2,
+            "Branch": "ECE",
+            "Count": 4
+        },
+        {
+            "Name of the Company": "TCS PRIME",
+            "sector": "IT",
+            "Salary": 9.0,
+            "Branch": "EEE",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "DELOITTE - CONSULTING",
+            "sector": "IT",
+            "Salary": 7.6,
+            "Branch": "EEE",
+            "Count": 4
+        },
+        {
+            "Name of the Company": "ZF INDIA",
+            "sector": "CORE",
+            "Salary": 7.25,
+            "Branch": "EEE",
+            "Count": 4
+        },
+        {
+            "Name of the Company": "SANVIRA",
+            "sector": "CORE",
+            "Salary": 7.2,
+            "Branch": "EEE",
+            "Count": 2
+        },
+        {
+            "Name of the Company": "STELLANTIS",
+            "sector": "CORE",
+            "Salary": 6.0,
+            "Branch": "EEE",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "KEYENCE",
+            "sector": "IT",
+            "Salary": 5.59,
+            "Branch": "EEE",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "K&S PARTNERS",
+            "sector": "IT",
+            "Salary": 5.5,
+            "Branch": "EEE",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "CORIZO",
+            "sector": "CORE",
+            "Salary": 6.5,
+            "Branch": "EEE",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "CII GODREJ",
+            "sector": "CORE",
+            "Salary": 6.0,
+            "Branch": "EEE",
+            "Count": 4
+        },
+        {
+            "Name of the Company": "COLRUYT",
+            "sector": "IT",
+            "Salary": 6.0,
+            "Branch": "EEE",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "WORLEY",
+            "sector": "IT",
+            "Salary": 5.15,
+            "Branch": "EEE",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "JODO",
+            "sector": "CORE",
+            "Salary": 5.0,
+            "Branch": "EEE",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "IBM",
+            "sector": "IT",
+            "Salary": 4.5,
+            "Branch": "EEE",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "MALABAR",
+            "sector": "CORE",
+            "Salary": 4.5,
+            "Branch": "EEE",
+            "Count": 4
+        },
+        {
+            "Name of the Company": "ACCENTURE",
+            "sector": "IT",
+            "Salary": 4.5,
+            "Branch": "EEE",
+            "Count": 19
+        },
+        {
+            "Name of the Company": "DIGIT INSURANCE",
+            "sector": "BFSI",
+            "Salary": 4.5,
+            "Branch": "EEE",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "SQUARE YARDS",
+            "sector": "IT",
+            "Salary": 4.5,
+            "Branch": "EEE",
+            "Count": 6
+        },
+        {
+            "Name of the Company": "HBL PROJECTS",
+            "sector": "CORE",
+            "Salary": 4.2,
+            "Branch": "EEE",
+            "Count": 7
+        },
+        {
+            "Name of the Company": "UTS",
+            "sector": "IT",
+            "Salary": 4.0,
+            "Branch": "EEE",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "AMARARAJA",
+            "sector": "CORE",
+            "Salary": 4.0,
+            "Branch": "EEE",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "HIGH TECHNEXT ENGINEERING & \nTELECOM PVT LTD SELECTED",
+            "sector": "CORE",
+            "Salary": 3.6,
+            "Branch": "EEE",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "VEM TECHNOLOGIES",
+            "sector": "CORE",
+            "Salary": 3.5,
+            "Branch": "EEE",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "PRAYOJAKA",
+            "sector": "IT",
+            "Salary": 3.5,
+            "Branch": "EEE",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "TECH MAHINDRA",
+            "sector": "IT",
+            "Salary": 3.5,
+            "Branch": "EEE",
+            "Count": 5
+        },
+        {
+            "Name of the Company": "AMAZON LMAQ",
+            "sector": "IT",
+            "Salary": 3.2,
+            "Branch": "EEE",
+            "Count": 3
+        },
+        {
+            "Name of the Company": "ITC",
+            "sector": "CORE",
+            "Salary": 3.0,
+            "Branch": "EEE",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "SRICHAKRA POLYPLAST",
+            "sector": "CORE",
+            "Salary": 2.75,
+            "Branch": "EEE",
+            "Count": 4
+        },
+        {
+            "Name of the Company": "AVEVA",
+            "sector": "CORE",
+            "Salary": 9.01,
+            "Branch": "EIE",
+            "Count": 3
+        },
+        {
+            "Name of the Company": "TCS PRIME",
+            "sector": "IT",
+            "Salary": 9.0,
+            "Branch": "EIE",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "DELOITTE - CONSULTING",
+            "sector": "IT",
+            "Salary": 7.6,
+            "Branch": "EIE",
+            "Count": 4
+        },
+        {
+            "Name of the Company": "ZF INDIA",
+            "sector": "CORE",
+            "Salary": 7.25,
+            "Branch": "EIE",
+            "Count": 4
+        },
+        {
+            "Name of the Company": "KEYENCE",
+            "sector": "IT",
+            "Salary": 5.59,
+            "Branch": "EIE",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "K&S PARTNERS",
+            "sector": "IT",
+            "Salary": 5.5,
+            "Branch": "EIE",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "CORIZO",
+            "sector": "CORE",
+            "Salary": 6.5,
+            "Branch": "EIE",
+            "Count": 2
+        },
+        {
+            "Name of the Company": "WAYSPIRE EDUTECH",
+            "sector": "IT",
+            "Salary": 5.4,
+            "Branch": "EIE",
+            "Count": 5
+        },
+        {
+            "Name of the Company": "WORLEY",
+            "sector": "IT",
+            "Salary": 5.15,
+            "Branch": "EIE",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "JODO",
+            "sector": "CORE",
+            "Salary": 5.0,
+            "Branch": "EIE",
+            "Count": 2
+        },
+        {
+            "Name of the Company": "IBM",
+            "sector": "IT",
+            "Salary": 4.5,
+            "Branch": "EIE",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "ACCENTURE",
+            "sector": "IT",
+            "Salary": 4.5,
+            "Branch": "EIE",
+            "Count": 8
+        },
+        {
+            "Name of the Company": "SQUARE YARDS",
+            "sector": "IT",
+            "Salary": 4.5,
+            "Branch": "EIE",
+            "Count": 6
+        },
+        {
+            "Name of the Company": "UTS",
+            "sector": "IT",
+            "Salary": 4.0,
+            "Branch": "EIE",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "TULAMAN",
+            "sector": "CORE",
+            "Salary": 4.0,
+            "Branch": "EIE",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "HIGH TECHNEXT ENGINEERING & \nTELECOM PVT LTD SELECTED",
+            "sector": "CORE",
+            "Salary": 3.6,
+            "Branch": "EIE",
+            "Count": 10
+        },
+        {
+            "Name of the Company": "GANDOUR",
+            "sector": "IT",
+            "Salary": 3.5,
+            "Branch": "EIE",
+            "Count": 3
+        },
+        {
+            "Name of the Company": "AMAZON LMAQ",
+            "sector": "IT",
+            "Salary": 3.2,
+            "Branch": "EIE",
+            "Count": 3
+        },
+        {
+            "Name of the Company": "ITC",
+            "sector": "CORE",
+            "Salary": 3.0,
+            "Branch": "EIE",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "SRICHAKRA POLYPLAST",
+            "sector": "CORE",
+            "Salary": 2.75,
+            "Branch": "EIE",
+            "Count": 4
+        },
+        {
+            "Name of the Company": "AVEVA",
+            "sector": "CORE",
+            "Salary": 9.01,
+            "Branch": "MECH",
+            "Count": 3
+        },
+        {
+            "Name of the Company": "TCS PRIME",
+            "sector": "IT",
+            "Salary": 9.0,
+            "Branch": "MECH",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "TECHNIP FMC",
+            "sector": "CORE",
+            "Salary": 7.9,
+            "Branch": "MECH",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "DELOITTE - CONSULTING",
+            "sector": "IT",
+            "Salary": 7.6,
+            "Branch": "MECH",
+            "Count": 3
+        },
+        {
+            "Name of the Company": "SANVIRA",
+            "sector": "CORE",
+            "Salary": 7.2,
+            "Branch": "MECH",
+            "Count": 2
+        },
+        {
+            "Name of the Company": "BLUESTAR",
+            "sector": "CORE",
+            "Salary": 6.2,
+            "Branch": "MECH",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "KEYENCE",
+            "sector": "IT",
+            "Salary": 5.59,
+            "Branch": "MECH",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "CII GODREJ",
+            "sector": "CORE",
+            "Salary": 6.0,
+            "Branch": "MECH",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "CADFEM",
+            "sector": "CORE",
+            "Salary": 5.5,
+            "Branch": "MECH",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "WORLEY",
+            "sector": "IT",
+            "Salary": 5.15,
+            "Branch": "MECH",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "IBM",
+            "sector": "IT",
+            "Salary": 4.5,
+            "Branch": "MECH",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "TATA CONSULTING ENGINEERS",
+            "sector": "CORE",
+            "Salary": 4.5,
+            "Branch": "MECH",
+            "Count": 6
+        },
+        {
+            "Name of the Company": "ACCENTURE",
+            "sector": "IT",
+            "Salary": 4.5,
+            "Branch": "MECH",
+            "Count": 12
+        },
+        {
+            "Name of the Company": "HYUNDAI R&D",
+            "sector": "CORE",
+            "Salary": 4.5,
+            "Branch": "MECH",
+            "Count": 2
+        },
+        {
+            "Name of the Company": "VOLTAS",
+            "sector": "CORE",
+            "Salary": 4.0,
+            "Branch": "MECH",
+            "Count": 7
+        },
+        {
+            "Name of the Company": "AUTOCRACY",
+            "sector": "CORE",
+            "Salary": 4.0,
+            "Branch": "MECH",
+            "Count": 5
+        },
+        {
+            "Name of the Company": "HIGH TECHNEXT ENGINEERING & \nTELECOM PVT LTD SELECTED",
+            "sector": "CORE",
+            "Salary": 3.6,
+            "Branch": "MECH",
+            "Count": 5
+        },
+        {
+            "Name of the Company": "VEM TECHNOLOGIES",
+            "sector": "CORE",
+            "Salary": 3.5,
+            "Branch": "MECH",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "GREENKO",
+            "sector": "CORE",
+            "Salary": 3.5,
+            "Branch": "MECH",
+            "Count": 5
+        },
+        {
+            "Name of the Company": "SHAGARON",
+            "sector": "CORE",
+            "Salary": 3.3,
+            "Branch": "MECH",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "AMAZON LMAQ",
+            "sector": "IT",
+            "Salary": 3.2,
+            "Branch": "MECH",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "SATVEN",
+            "sector": "CORE",
+            "Salary": 3.2,
+            "Branch": "MECH",
+            "Count": 5
+        },
+        {
+            "Name of the Company": "ITC",
+            "sector": "CORE",
+            "Salary": 3.0,
+            "Branch": "MECH",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "SRICHAKRA POLYPLAST",
+            "sector": "CORE",
+            "Salary": 2.75,
+            "Branch": "MECH",
+            "Count": 8
+        },
+        {
+            "Name of the Company": "LOKESH MACHINES",
+            "sector": "CORE",
+            "Salary": 2.4,
+            "Branch": "MECH",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "TCS PRIME",
+            "sector": "IT",
+            "Salary": 9.0,
+            "Branch": "CIVIL",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "DELOITTE - CONSULTING",
+            "sector": "IT",
+            "Salary": 7.6,
+            "Branch": "CIVIL",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "INNCIRCLES",
+            "sector": "IT",
+            "Salary": 6.0,
+            "Branch": "CIVIL",
+            "Count": 3
+        },
+        {
+            "Name of the Company": "WORLEY",
+            "sector": "IT",
+            "Salary": 5.15,
+            "Branch": "CIVIL",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "IBM",
+            "sector": "IT",
+            "Salary": 4.5,
+            "Branch": "CIVIL",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "TATA CONSULTING ENGINEERS",
+            "sector": "CORE",
+            "Salary": 4.5,
+            "Branch": "CIVIL",
+            "Count": 6
+        },
+        {
+            "Name of the Company": "ACCENTURE",
+            "sector": "IT",
+            "Salary": 4.5,
+            "Branch": "CIVIL",
+            "Count": 7
+        },
+        {
+            "Name of the Company": "SQUARE YARDS",
+            "sector": "IT",
+            "Salary": 4.5,
+            "Branch": "CIVIL",
+            "Count": 10
+        },
+        {
+            "Name of the Company": "AMARARAJA",
+            "sector": "CORE",
+            "Salary": 4.0,
+            "Branch": "CIVIL",
+            "Count": 3
+        },
+        {
+            "Name of the Company": "SHAGARON",
+            "sector": "CORE",
+            "Salary": 3.3,
+            "Branch": "CIVIL",
+            "Count": 6
+        },
+        {
+            "Name of the Company": "AMAZON LMAQ",
+            "sector": "IT",
+            "Salary": 3.2,
+            "Branch": "CIVIL",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "BRIGADE",
+            "sector": "CORE",
+            "Salary": 3.0,
+            "Branch": "CIVIL",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "SATYAVANI",
+            "sector": "CORE",
+            "Salary": 3.0,
+            "Branch": "CIVIL",
+            "Count": 5
+        },
+        {
+            "Name of the Company": "TCS PRIME",
+            "sector": "IT",
+            "Salary": 9.0,
+            "Branch": "AUTO",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "WORLEY",
+            "sector": "IT",
+            "Salary": 5.15,
+            "Branch": "AUTO",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "IBM",
+            "sector": "IT",
+            "Salary": 4.5,
+            "Branch": "AUTO",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "ACCENTURE",
+            "sector": "IT",
+            "Salary": 4.5,
+            "Branch": "AUTO",
+            "Count": 6
+        },
+        {
+            "Name of the Company": "HYUNDAI R&D",
+            "sector": "CORE",
+            "Salary": 4.5,
+            "Branch": "AUTO",
+            "Count": 2
+        },
+        {
+            "Name of the Company": "SQUARE YARDS",
+            "sector": "IT",
+            "Salary": 4.5,
+            "Branch": "AUTO",
+            "Count": 5
+        },
+        {
+            "Name of the Company": "UTS",
+            "sector": "IT",
+            "Salary": 4.0,
+            "Branch": "AUTO",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "AUTOCRACY",
+            "sector": "CORE",
+            "Salary": 4.0,
+            "Branch": "AUTO",
+            "Count": 5
+        },
+        {
+            "Name of the Company": "AMAZON LMAQ",
+            "sector": "IT",
+            "Salary": 3.2,
+            "Branch": "AUTO",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "SATVEN",
+            "sector": "CORE",
+            "Salary": 3.2,
+            "Branch": "AUTO",
+            "Count": 2
+        },
+        {
+            "Name of the Company": "TCS PRIME",
+            "sector": "IT",
+            "Salary": 9.0,
+            "Branch": "M.TECH",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "THOMSON REUTERS",
+            "sector": "IT",
+            "Salary": 6.5,
+            "Branch": "M.TECH",
+            "Count": 1
+        },
+        {
+            "Name of the Company": "IGNITARIUM",
+            "sector": "IT",
+            "Salary": 6.0,
+            "Branch": "M.TECH",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "BOSCH",
+            "sector": "CORE",
+            "Salary": 5.0,
+            "Branch": "M.TECH",
+            "Count": 0
+        },
+        {
+            "Name of the Company": "ACCENTURE",
+            "sector": "IT",
+            "Salary": 4.5,
+            "Branch": "M.TECH",
+            "Count": 0
+        }
+    ]
+}

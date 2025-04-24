@@ -1,9 +1,14 @@
 const express = require("express");
-const cors = require("cors");
+const mongoose = require("mongoose");
+const cors = require("cors"); // Import cors
+const path = require("path");
+const AdminAPI = require("./APIs/adminApi");
 const fs = require("fs");
-
+const PORT = process.env.PORT || 9000;
 const app = express();
-app.use(cors());
+
+// Enable CORS
+app.use(cors({ origin: "http://localhost:5173" })); // Allow requests from the frontend
 
 // Function to clean and format branch data
 const processBranchData = (data) => {
@@ -129,4 +134,12 @@ app.get("/api/placements/:year", (req, res) => {
     res.json(data);
 });
 
-app.listen(9000, () => console.log("Server running on port 9000"));
+mongoose
+  .connect("mongodb+srv://mdarbazking7:Mdarbaz123@cluster0.fir8b.mongodb.net/placements")
+  .then(() => console.log("MongoDB connected"))
+  .catch((err) => console.error("MongoDB connection error:", err));
+
+// API Routes
+app.use("/api", AdminAPI);
+
+app.listen(PORT, () => console.log(`Server running on port ${PORT}`));

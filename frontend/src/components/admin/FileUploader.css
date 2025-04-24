@@ -1,0 +1,121 @@
+.file-uploader {
+    background-color: #EEEEEE;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(125, 10, 10, 0.05);
+    padding: 20px;
+  }
+  
+  .file-uploader h2 {
+    margin-bottom: 15px;
+    font-size: 18px;
+    color: #7D0A0A;
+  }
+  
+  .upload-area {
+    border: 2px dashed #BF3131;
+    border-radius: 8px;
+    padding: 30px;
+    text-align: center;
+    transition: all 0.2s ease;
+    cursor: pointer;
+    margin-bottom: 15px;
+  }
+  
+  .upload-area.active {
+    border-color: #7D0A0A;
+    background-color: rgba(125, 10, 10, 0.05);
+  }
+  
+  .upload-icon {
+    font-size: 36px;
+    color: #94a3b8;
+    margin-bottom: 10px;
+  }
+  
+  .upload-area p {
+    color: #64748b;
+    margin: 5px 0;
+  }
+  
+  .file-input {
+    display: none;
+  }
+  
+  .file-label {
+    display: inline-block;
+    background-color: #BF3131;
+    color: white;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 10px;
+    font-size: 14px;
+    transition: background-color 0.2s ease;
+  }
+  
+  .file-label:hover {
+    background-color: #7D0A0A;
+  }
+  
+  .selected-file {
+    margin-top: 15px;
+    padding: 10px;
+    background-color: #EAD196;
+    border-radius: 6px;
+  }
+  
+  .selected-file p {
+    margin-bottom: 10px;
+    color: #475569;
+  }
+  
+  .upload-button {
+    background-color: #BF3131;
+    color: white;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: background-color 0.2s ease;
+  }
+  
+  .upload-button:hover {
+    background-color: #7D0A0A;
+  }
+  
+  .upload-button:disabled {
+    background-color: #EAD196;
+    cursor: not-allowed;
+  }
+  
+  .error-message {
+    color: #e74c3c;
+    margin-top: 10px;
+    font-size: 14px;
+  }
+  
+  /* Responsive Design */
+  @media screen and (max-width: 600px) {
+    .file-uploader {
+      padding: 15px;
+    }
+  
+    .upload-area {
+      padding: 20px;
+    }
+  
+    .upload-icon {
+      font-size: 28px;
+    }
+  
+    .file-label,
+    .upload-button {
+      width: 100%;
+      padding: 10px;
+      margin-top: 10px;
+    }
+  
+    .selected-file {
+      padding: 10px;
+    }
+  }

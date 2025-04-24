@@ -91,14 +91,18 @@ const Dashboard = () => {
 
   return (
     <div className="dashboard">
-      <h1>Placements Dashboard</h1>
-
-      <select value={year} onChange={(e) => setYear(e.target.value)}>
-        <option value="2021">2021</option>
-        <option value="2022">2022</option>
-        <option value="2023">2023</option>
-        <option value="2024">2024</option>
-      </select>
+      <div className="dashboard-header">
+        <select
+          value={year}
+          onChange={(e) => setYear(e.target.value)}
+        >
+          <option value="2021">2021</option>
+          <option value="2022">2022</option>
+          <option value="2023">2023</option>
+          <option value="2024">2024</option>
+        </select>
+        <h1>Visualization Dashboard</h1>
+      </div>
 
       {error ? (
         <div className="error">

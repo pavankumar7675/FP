@@ -6,35 +6,21 @@
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
-.dashboard h1 {
-  margin-bottom: 30px;
-  color: #2c3e50;
-  font-size: 2.5rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 1px;
+.dashboard-header {
+  display: flex;
+  align-items: center;
+  justify-content: center; /* Center the content horizontally */
+  gap: 20px; /* Add spacing between the select and heading */
+  margin-bottom: 2rem;
   position: relative;
-  padding-bottom: 15px;
 }
 
-.dashboard h1::after {
-  content: '';
-  position: absolute;
-  bottom: 0;
-  left: 50%;
-  transform: translateX(-50%);
-  width: 100px;
-  height: 4px;
-  background: linear-gradient(90deg, #3498db, #2ecc71);
-  border-radius: 2px;
-}
-
-.dashboard select {
-  padding: 12px 24px;
-  font-size: 16px;
-  margin-bottom: 30px;
-  border-radius: 8px;
-  border: 2px solid #e0e0e0;
+.dashboard-header select {
+  width: 150px; /* Keep the width compact */
+  padding: 0.5rem;
+  font-size: 1rem;
+  border-radius: 5px;
+  border: 1px solid #ccc;
   background-color: white;
   cursor: pointer;
   transition: all 0.3s ease;
@@ -47,15 +33,38 @@
   padding-right: 2.5rem;
 }
 
-.dashboard select:hover {
+.dashboard-header select:hover {
   border-color: #3498db;
   box-shadow: 0 4px 8px rgba(52, 152, 219, 0.1);
 }
 
-.dashboard select:focus {
+.dashboard-header select:focus {
   outline: none;
   border-color: #3498db;
   box-shadow: 0 4px 12px rgba(52, 152, 219, 0.2);
+}
+
+.dashboard-header h1 {
+  text-align: center;
+  font-size: 2.5rem;
+  color: #2c3e50;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  position: relative;
+  padding-bottom: 15px;
+}
+
+.dashboard-header h1::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100px;
+  height: 4px;
+  background: linear-gradient(90deg, #3498db, #2ecc71);
+  border-radius: 2px;
 }
 
 .charts {
@@ -115,11 +124,11 @@
     padding: 15px;
   }
 
-  .dashboard h1 {
+  .dashboard-header h1 {
     font-size: 2rem;
   }
 
   .chart-section {
     padding: 15px;
   }
-} 
+}

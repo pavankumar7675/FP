@@ -1,0 +1,148 @@
+:root {
+    --dark-red: #7D0A0A;
+    --medium-red: #BF3131;
+    --light-yellow: #EAD196;
+    --white: #EEEEEE;
+  }
+  
+  .files-list {
+    background-color: var(--light-yellow);
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(125, 10, 10, 0.1);
+    padding: 20px;
+    border: 1px solid var(--medium-red);
+  }
+  
+  .files-list h2 {
+    margin-bottom: 15px;
+    font-size: 18px;
+    color: var(--dark-red);
+    border-bottom: 2px solid var(--medium-red);
+    padding-bottom: 10px;
+  }
+  
+  .no-files {
+    padding: 20px;
+    text-align: center;
+    color: var(--dark-red);
+  }
+  
+  .files-list ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .files-list li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px;
+    border-radius: 6px;
+    margin-bottom: 8px;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+    border: 1px solid transparent;
+  }
+  
+  .files-list li:hover {
+    background-color: rgba(237, 216, 150, 0.5);
+    border-color: var(--medium-red);
+  }
+  
+  .files-list li.selected {
+    background-color: rgba(237, 216, 150, 0.7);
+    border-left: 3px solid var(--dark-red);
+  }
+  
+  .file-info {
+    display: flex;
+    align-items: center;
+    flex-grow: 1;
+  }
+  
+  .file-icon {
+    margin-right: 12px;
+    font-size: 20px;
+    color: var(--dark-red);
+  }
+  
+  .file-details {
+    overflow: hidden;
+  }
+  
+  .file-details h3 {
+    font-size: 16px;
+    margin-bottom: 4px;
+    color: var(--dark-red);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  
+  .file-details p {
+    font-size: 12px;
+    color: var(--dark-red);
+    opacity: 0.7;
+  }
+  
+  .file-actions {
+    display: flex;
+    gap: 8px;
+  }
+  
+  .delete-button {
+    background-color: transparent;
+    color: var(--dark-red);
+    padding: 6px;
+    border-radius: 4px;
+    transition: background-color 0.2s ease;
+  }
+  
+  .delete-button:hover {
+    background-color: rgba(125, 10, 10, 0.1);
+  }
+  
+  @media (max-width: 768px) {
+    .files-list {
+      padding: 15px;
+    }
+  
+    .files-list h2 {
+      font-size: 16px;
+    }
+  
+    .files-list li {
+      flex-direction: column;
+      align-items: flex-start;
+      padding: 10px;
+    }
+  
+    .file-info {
+      width: 100%;
+      margin-bottom: 10px;
+    }
+  
+    .file-actions {
+      width: 100%;
+      justify-content: flex-end;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .files-list {
+      padding: 10px;
+    }
+  
+    .file-icon {
+      margin-right: 8px;
+      font-size: 16px;
+    }
+  
+    .file-details h3 {
+      font-size: 14px;
+    }
+  
+    .file-details p {
+      font-size: 11px;
+    }
+  }

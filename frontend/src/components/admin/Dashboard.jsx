@@ -19,6 +19,7 @@ function Dashboard() {
     try {
       const response = await axios.get("http://localhost:5000/api/files")
       const data = response.data
+      console.log("arr",response.data)
 
       setFiles(data)
     } catch (error) {

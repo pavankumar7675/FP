@@ -81,9 +81,10 @@
 
 /* Sector-wise Charts */
 .sector-charts {
+  width: 100%;
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 40px;
+  grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
+  gap: 2rem;
   margin: 30px 0;
   padding: 20px;
   background: #f8f9fa;
@@ -196,9 +197,10 @@
 
 /* Branch-wise Charts */
 .branch-charts {
+  width: 100%;
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 30px;
+  grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
+  gap: 2rem;
   margin-top: 20px;
 }
 
@@ -218,6 +220,23 @@
 
 .recharts-yAxis.recharts-yAxis-right {
   transform: translateX(10px);
+}
+
+.charts-container {
+  width: 100%;
+  max-width: 100%;
+  overflow-x: auto;
+}
+
+.chart-container {
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: 2rem;
+}
+
+.pie-chart-container {
+  min-width: 450px;
+  height: 400px;
 }
 
 @media (max-width: 1200px) {
@@ -262,4 +281,28 @@
   .recharts-yAxis.recharts-yAxis-right {
     transform: translateX(5px);
   }
-} 
+}
+
+@media (max-width: 1400px) {
+  .charts-container,
+  .chart-container,
+  .sector-charts,
+  .branch-charts {
+    min-width: 95%;
+  }
+  
+  .pie-chart-container {
+    min-width: 400px;
+  }
+}
+
+@media (max-width: 500px) {
+  .sector-charts,
+  .branch-charts {
+    grid-template-columns: 1fr;
+  }
+  
+  .pie-chart-container {
+    min-width: 100%;
+  }
+}

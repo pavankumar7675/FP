@@ -1,50 +1,81 @@
 .summary-stats {
-  background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%);
-  padding: 30px;
+  width: 100%;
+  background: white;
   border-radius: 16px;
-  margin-bottom: 30px;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
-  border: 1px solid rgba(0, 0, 0, 0.05);
+  padding: 2rem;
+  margin: 2rem auto;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  max-width: 1400px;
+}
+
+.summary-stats h2 {
+  color: #2c3e50;
+  margin-bottom: 2rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 600;
+  position: relative;
 }
 
 .stats-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: 25px;
-  margin-top: 20px;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.5rem;
 }
 
 .stat-item {
-  background: white;
-  padding: 25px;
+  background: linear-gradient(145deg, #ffffff, #f8fafc);
   border-radius: 12px;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-  border: 1px solid rgba(0, 0, 0, 0.05);
+  padding: 1.5rem;
+  text-align: center;
+  transition: all 0.3s ease;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
 }
 
 .stat-item:hover {
   transform: translateY(-5px);
-  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
 }
 
 .stat-item h3 {
-  margin: 0;
-  font-size: 16px;
-  color: #7f8c8d;
+  color: #64748b;
+  font-size: 1rem;
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.5px;
+  margin-bottom: 0.5rem;
 }
 
-.stat-item p {
-  margin: 15px 0 0;
-  font-size: 32px;
+.stat-item .main-value {
+  color: #1e293b;
+  font-size: 2.5rem;
   font-weight: 700;
-  color: #2c3e50;
-  background: linear-gradient(45deg, #3498db, #2ecc71);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  margin: 0.5rem 0;
+  line-height: 1;
+}
+
+.sub-values {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.sub-values small {
+  color: #64748b;
+  font-size: 0.875rem;
+}
+
+.percentage {
+  margin-top: auto;
+  padding: 0.5rem;
+  background: rgba(46, 204, 113, 0.1);
+  color: #2ecc71;
+  border-radius: 8px;
+  font-weight: 600;
+  font-size: 1rem;
 }
 
 @media (max-width: 768px) {
@@ -60,4 +91,4 @@
   .stat-item p {
     font-size: 28px;
   }
-} 
+}

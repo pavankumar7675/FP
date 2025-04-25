@@ -1,0 +1,900 @@
+{
+    "Cleaned_Data": [
+        {
+            "Name of the Company": "MICROSOFT",
+            "sector": "IT",
+            "Salary": 46.0,
+            "Branch": "CSE",
+            "Count": 3
+        },
+        {
+            "Name of the Company": "FLIPKART",
+            "sector": "IT",
+            "Salary": 31.0,
+            "Branch": "CSE",
+            "Count": 4
+        },
+        {
+            "Name of the Company": "QUALCOMM",
+            "sector": "CORE",
+            "Salary": 24.5,
+            "Branch": "CSE",
+            "Count": 3
+        },
+        {
+            "Name of the Company": "AMAZON",
+            "sector": "IT",
+            "Salary": 33.0,
+            "Branch": "CSE",
+            "Count": 7
+        },
+        {
+            "Name of the Company": "GOOGLE",
+            "sector": "IT",
+            "Salary": 43.0,
+            "Branch": "CSE",
+            "Count": 2
+        },
+        {
+            "Name of the Company": "JP MORGAN CHASE",
+            "sector": "BFSI",
+            "Salary": 18.0,
+            "Branch": "CSE",
+            "Count": 10
+        },
+        {
+            "Name of the Company": "GOLDMAN SACHS",
+            "sector": "BFSI",
+            "Salary": 24.0,
+            "Branch": "CSE",
+            "Count": 4
+        },
+        {
+            "Name of the Company": "MORGAN STANLEY",
+            "sector": "BFSI",
+            "Salary": 23.0,
+            "Branch": "CSE",
+            "Count": 3
+        },
+        {
+            "Name of the Company": "ADOBE",
+            "sector": "IT",
+            "Salary": 22.0,
+            "Branch": "CSE",
+            "Count": 5
+        },
+        {
+            "Name of the Company": "ORACLE",
+            "sector": "IT",
+            "Salary": 16.0,
+            "Branch": "CSE",
+            "Count": 7
+        },
+        {
+            "Name of the Company": "ACCENTURE",
+            "sector": "IT",
+            "Salary": 4.5,
+            "Branch": "CSE",
+            "Count": 18
+        },
+        {
+            "Name of the Company": "TCS",
+            "sector": "IT",
+            "Salary": 4.0,
+            "Branch": "CSE",
+            "Count": 24
+        },
+        {
+            "Name of the Company": "INFOSYS",
+            "sector": "IT",
+            "Salary": 4.2,
+            "Branch": "CSE",
+            "Count": 22
+        },
+        {
+            "Name of the Company": "WIPRO",
+            "sector": "IT",
+            "Salary": 3.8,
+            "Branch": "CSE",
+            "Count": 20
+        },
+        {
+            "Name of the Company": "COGNIZANT",
+            "sector": "IT",
+            "Salary": 4.5,
+            "Branch": "CSE",
+            "Count": 17
+        },
+        {
+            "Name of the Company": "CAPGEMINI",
+            "sector": "IT",
+            "Salary": 4.2,
+            "Branch": "CSE",
+            "Count": 15
+        },
+        {
+            "Name of the Company": "DELOITTE",
+            "sector": "IT",
+            "Salary": 7.2,
+            "Branch": "CSE",
+            "Count": 12
+        },
+        {
+            "Name of the Company": "IBM",
+            "sector": "IT",
+            "Salary": 5.0,
+            "Branch": "CSE",
+            "Count": 10
+        },
+        {
+            "Name of the Company": "MICROSOFT",
+            "sector": "IT",
+            "Salary": 46.0,
+            "Branch": "CSBS",
+            "Count": 2
+        },
+        {
+            "Name of the Company": "AMAZON",
+            "sector": "IT",
+            "Salary": 33.0,
+            "Branch": "CSBS",
+            "Count": 3
+        },
+        {
+            "Name of the Company": "JP MORGAN CHASE",
+            "sector": "BFSI",
+            "Salary": 18.0,
+            "Branch": "CSBS",
+            "Count": 4
+        },
+        {
+            "Name of the Company": "ACCENTURE",
+            "sector": "IT",
+            "Salary": 4.5,
+            "Branch": "CSBS",
+            "Count": 7
+        },
+        {
+            "Name of the Company": "TCS",
+            "sector": "IT",
+            "Salary": 4.0,
+            "Branch": "CSBS",
+            "Count": 8
+        },
+        {
+            "Name of the Company": "INFOSYS",
+            "sector": "IT",
+            "Salary": 4.2,
+            "Branch": "CSBS",
+            "Count": 7
+        },
+        {
+            "Name of the Company": "WIPRO",
+            "sector": "IT",
+            "Salary": 3.8,
+            "Branch": "CSBS",
+            "Count": 6
+        },
+        {
+            "Name of the Company": "COGNIZANT",
+            "sector": "IT",
+            "Salary": 4.5,
+            "Branch": "CSBS",
+            "Count": 6
+        },
+        {
+            "Name of the Company": "CAPGEMINI",
+            "sector": "IT",
+            "Salary": 4.2,
+            "Branch": "CSBS",
+            "Count": 5
+        },
+        {
+            "Name of the Company": "DELOITTE",
+            "sector": "IT",
+            "Salary": 7.2,
+            "Branch": "CSBS",
+            "Count": 4
+        },
+        {
+            "Name of the Company": "IBM",
+            "sector": "IT",
+            "Salary": 5.0,
+            "Branch": "CSBS",
+            "Count": 3
+        },
+        {
+            "Name of the Company": "MICROSOFT",
+            "sector": "IT",
+            "Salary": 46.0,
+            "Branch": "CYS",
+            "Count": 2
+        },
+        {
+            "Name of the Company": "AMAZON",
+            "sector": "IT",
+            "Salary": 33.0,
+            "Branch": "CYS",
+            "Count": 2
+        },
+        {
+            "Name of the Company": "JP MORGAN CHASE",
+            "sector": "BFSI",
+            "Salary": 18.0,
+            "Branch": "CYS",
+            "Count": 3
+        },
+        {
+            "Name of the Company": "ACCENTURE",
+            "sector": "IT",
+            "Salary": 4.5,
+            "Branch": "CYS",
+            "Count": 7
+        },
+        {
+            "Name of the Company": "TCS",
+            "sector": "IT",
+            "Salary": 4.0,
+            "Branch": "CYS",
+            "Count": 8
+        },
+        {
+            "Name of the Company": "INFOSYS",
+            "sector": "IT",
+            "Salary": 4.2,
+            "Branch": "CYS",
+            "Count": 7
+        },
+        {
+            "Name of the Company": "WIPRO",
+            "sector": "IT",
+            "Salary": 3.8,
+            "Branch": "CYS",
+            "Count": 6
+        },
+        {
+            "Name of the Company": "COGNIZANT",
+            "sector": "IT",
+            "Salary": 4.5,
+            "Branch": "CYS",
+            "Count": 6
+        },
+        {
+            "Name of the Company": "CAPGEMINI",
+            "sector": "IT",
+            "Salary": 4.2,
+            "Branch": "CYS",
+            "Count": 5
+        },
+        {
+            "Name of the Company": "DELOITTE",
+            "sector": "IT",
+            "Salary": 7.2,
+            "Branch": "CYS",
+            "Count": 3
+        },
+        {
+            "Name of the Company": "IBM",
+            "sector": "IT",
+            "Salary": 5.0,
+            "Branch": "CYS",
+            "Count": 2
+        },
+        {
+            "Name of the Company": "AMAZON",
+            "sector": "IT",
+            "Salary": 33.0,
+            "Branch": "AIML",
+            "Count": 2
+        },
+        {
+            "Name of the Company": "JP MORGAN CHASE",
+            "sector": "BFSI",
+            "Salary": 18.0,
+            "Branch": "AIML",
+            "Count": 3
+        },
+        {
+            "Name of the Company": "ACCENTURE",
+            "sector": "IT",
+            "Salary": 4.5,
+            "Branch": "AIML",
+            "Count": 6
+        },
+        {
+            "Name of the Company": "TCS",
+            "sector": "IT",
+            "Salary": 4.0,
+            "Branch": "AIML",
+            "Count": 7
+        },
+        {
+            "Name of the Company": "INFOSYS",
+            "sector": "IT",
+            "Salary": 4.2,
+            "Branch": "AIML",
+            "Count": 6
+        },
+        {
+            "Name of the Company": "WIPRO",
+            "sector": "IT",
+            "Salary": 3.8,
+            "Branch": "AIML",
+            "Count": 5
+        },
+        {
+            "Name of the Company": "COGNIZANT",
+            "sector": "IT",
+            "Salary": 4.5,
+            "Branch": "AIML",
+            "Count": 5
+        },
+        {
+            "Name of the Company": "CAPGEMINI",
+            "sector": "IT",
+            "Salary": 4.2,
+            "Branch": "AIML",
+            "Count": 4
+        },
+        {
+            "Name of the Company": "DELOITTE",
+            "sector": "IT",
+            "Salary": 7.2,
+            "Branch": "AIML",
+            "Count": 3
+        },
+        {
+            "Name of the Company": "IBM",
+            "sector": "IT",
+            "Salary": 5.0,
+            "Branch": "AIML",
+            "Count": 2
+        },
+        {
+            "Name of the Company": "AMAZON",
+            "sector": "IT",
+            "Salary": 33.0,
+            "Branch": "DS",
+            "Count": 2
+        },
+        {
+            "Name of the Company": "JP MORGAN CHASE",
+            "sector": "BFSI",
+            "Salary": 18.0,
+            "Branch": "DS",
+            "Count": 3
+        },
+        {
+            "Name of the Company": "ACCENTURE",
+            "sector": "IT",
+            "Salary": 4.5,
+            "Branch": "DS",
+            "Count": 6
+        },
+        {
+            "Name of the Company": "TCS",
+            "sector": "IT",
+            "Salary": 4.0,
+            "Branch": "DS",
+            "Count": 7
+        },
+        {
+            "Name of the Company": "INFOSYS",
+            "sector": "IT",
+            "Salary": 4.2,
+            "Branch": "DS",
+            "Count": 6
+        },
+        {
+            "Name of the Company": "WIPRO",
+            "sector": "IT",
+            "Salary": 3.8,
+            "Branch": "DS",
+            "Count": 5
+        },
+        {
+            "Name of the Company": "COGNIZANT",
+            "sector": "IT",
+            "Salary": 4.5,
+            "Branch": "DS",
+            "Count": 5
+        },
+        {
+            "Name of the Company": "CAPGEMINI",
+            "sector": "IT",
+            "Salary": 4.2,
+            "Branch": "DS",
+            "Count": 4
+        },
+        {
+            "Name of the Company": "DELOITTE",
+            "sector": "IT",
+            "Salary": 7.2,
+            "Branch": "DS",
+            "Count": 2
+        },
+        {
+            "Name of the Company": "IBM",
+            "sector": "IT",
+            "Salary": 5.0,
+            "Branch": "DS",
+            "Count": 2
+        },
+        {
+            "Name of the Company": "AMAZON",
+            "sector": "IT",
+            "Salary": 33.0,
+            "Branch": "IOT",
+            "Count": 2
+        },
+        {
+            "Name of the Company": "JP MORGAN CHASE",
+            "sector": "BFSI",
+            "Salary": 18.0,
+            "Branch": "IOT",
+            "Count": 3
+        },
+        {
+            "Name of the Company": "ACCENTURE",
+            "sector": "IT",
+            "Salary": 4.5,
+            "Branch": "IOT",
+            "Count": 6
+        },
+        {
+            "Name of the Company": "TCS",
+            "sector": "IT",
+            "Salary": 4.0,
+            "Branch": "IOT",
+            "Count": 7
+        },
+        {
+            "Name of the Company": "INFOSYS",
+            "sector": "IT",
+            "Salary": 4.2,
+            "Branch": "IOT",
+            "Count": 6
+        },
+        {
+            "Name of the Company": "WIPRO",
+            "sector": "IT",
+            "Salary": 3.8,
+            "Branch": "IOT",
+            "Count": 5
+        },
+        {
+            "Name of the Company": "COGNIZANT",
+            "sector": "IT",
+            "Salary": 4.5,
+            "Branch": "IOT",
+            "Count": 5
+        },
+        {
+            "Name of the Company": "CAPGEMINI",
+            "sector": "IT",
+            "Salary": 4.2,
+            "Branch": "IOT",
+            "Count": 4
+        },
+        {
+            "Name of the Company": "DELOITTE",
+            "sector": "IT",
+            "Salary": 7.2,
+            "Branch": "IOT",
+            "Count": 2
+        },
+        {
+            "Name of the Company": "IBM",
+            "sector": "IT",
+            "Salary": 5.0,
+            "Branch": "IOT",
+            "Count": 2
+        },
+        {
+            "Name of the Company": "AMAZON",
+            "sector": "IT",
+            "Salary": 33.0,
+            "Branch": "IT",
+            "Count": 3
+        },
+        {
+            "Name of the Company": "JP MORGAN CHASE",
+            "sector": "BFSI",
+            "Salary": 18.0,
+            "Branch": "IT",
+            "Count": 4
+        },
+        {
+            "Name of the Company": "ACCENTURE",
+            "sector": "IT",
+            "Salary": 4.5,
+            "Branch": "IT",
+            "Count": 8
+        },
+        {
+            "Name of the Company": "TCS",
+            "sector": "IT",
+            "Salary": 4.0,
+            "Branch": "IT",
+            "Count": 9
+        },
+        {
+            "Name of the Company": "INFOSYS",
+            "sector": "IT",
+            "Salary": 4.2,
+            "Branch": "IT",
+            "Count": 8
+        },
+        {
+            "Name of the Company": "WIPRO",
+            "sector": "IT",
+            "Salary": 3.8,
+            "Branch": "IT",
+            "Count": 7
+        },
+        {
+            "Name of the Company": "COGNIZANT",
+            "sector": "IT",
+            "Salary": 4.5,
+            "Branch": "IT",
+            "Count": 7
+        },
+        {
+            "Name of the Company": "CAPGEMINI",
+            "sector": "IT",
+            "Salary": 4.2,
+            "Branch": "IT",
+            "Count": 6
+        },
+        {
+            "Name of the Company": "DELOITTE",
+            "sector": "IT",
+            "Salary": 7.2,
+            "Branch": "IT",
+            "Count": 4
+        },
+        {
+            "Name of the Company": "IBM",
+            "sector": "IT",
+            "Salary": 5.0,
+            "Branch": "IT",
+            "Count": 3
+        },
+        {
+            "Name of the Company": "QUALCOMM",
+            "sector": "CORE",
+            "Salary": 24.5,
+            "Branch": "ECE",
+            "Count": 2
+        },
+        {
+            "Name of the Company": "AMAZON",
+            "sector": "IT",
+            "Salary": 33.0,
+            "Branch": "ECE",
+            "Count": 3
+        },
+        {
+            "Name of the Company": "JP MORGAN CHASE",
+            "sector": "BFSI",
+            "Salary": 18.0,
+            "Branch": "ECE",
+            "Count": 6
+        },
+        {
+            "Name of the Company": "ACCENTURE",
+            "sector": "IT",
+            "Salary": 4.5,
+            "Branch": "ECE",
+            "Count": 24
+        },
+        {
+            "Name of the Company": "TCS",
+            "sector": "IT",
+            "Salary": 4.0,
+            "Branch": "ECE",
+            "Count": 29
+        },
+        {
+            "Name of the Company": "INFOSYS",
+            "sector": "IT",
+            "Salary": 4.2,
+            "Branch": "ECE",
+            "Count": 24
+        },
+        {
+            "Name of the Company": "WIPRO",
+            "sector": "IT",
+            "Salary": 3.8,
+            "Branch": "ECE",
+            "Count": 22
+        },
+        {
+            "Name of the Company": "COGNIZANT",
+            "sector": "IT",
+            "Salary": 4.5,
+            "Branch": "ECE",
+            "Count": 18
+        },
+        {
+            "Name of the Company": "CAPGEMINI",
+            "sector": "IT",
+            "Salary": 4.2,
+            "Branch": "ECE",
+            "Count": 15
+        },
+        {
+            "Name of the Company": "DELOITTE",
+            "sector": "IT",
+            "Salary": 7.2,
+            "Branch": "ECE",
+            "Count": 10
+        },
+        {
+            "Name of the Company": "IBM",
+            "sector": "IT",
+            "Salary": 5.0,
+            "Branch": "ECE",
+            "Count": 8
+        },
+        {
+            "Name of the Company": "SIEMENS",
+            "sector": "CORE",
+            "Salary": 5.5,
+            "Branch": "ECE",
+            "Count": 5
+        },
+        {
+            "Name of the Company": "BOSCH",
+            "sector": "CORE",
+            "Salary": 5.0,
+            "Branch": "ECE",
+            "Count": 4
+        },
+        {
+            "Name of the Company": "QUALCOMM",
+            "sector": "CORE",
+            "Salary": 24.5,
+            "Branch": "EEE",
+            "Count": 2
+        },
+        {
+            "Name of the Company": "ACCENTURE",
+            "sector": "IT",
+            "Salary": 4.5,
+            "Branch": "EEE",
+            "Count": 8
+        },
+        {
+            "Name of the Company": "TCS",
+            "sector": "IT",
+            "Salary": 4.0,
+            "Branch": "EEE",
+            "Count": 9
+        },
+        {
+            "Name of the Company": "INFOSYS",
+            "sector": "IT",
+            "Salary": 4.2,
+            "Branch": "EEE",
+            "Count": 8
+        },
+        {
+            "Name of the Company": "WIPRO",
+            "sector": "IT",
+            "Salary": 3.8,
+            "Branch": "EEE",
+            "Count": 7
+        },
+        {
+            "Name of the Company": "COGNIZANT",
+            "sector": "IT",
+            "Salary": 4.5,
+            "Branch": "EEE",
+            "Count": 7
+        },
+        {
+            "Name of the Company": "CAPGEMINI",
+            "sector": "IT",
+            "Salary": 4.2,
+            "Branch": "EEE",
+            "Count": 6
+        },
+        {
+            "Name of the Company": "SIEMENS",
+            "sector": "CORE",
+            "Salary": 5.5,
+            "Branch": "EEE",
+            "Count": 3
+        },
+        {
+            "Name of the Company": "BOSCH",
+            "sector": "CORE",
+            "Salary": 5.0,
+            "Branch": "EEE",
+            "Count": 3
+        },
+        {
+            "Name of the Company": "ACCENTURE",
+            "sector": "IT",
+            "Salary": 4.5,
+            "Branch": "EIE",
+            "Count": 8
+        },
+        {
+            "Name of the Company": "TCS",
+            "sector": "IT",
+            "Salary": 4.0,
+            "Branch": "EIE",
+            "Count": 9
+        },
+        {
+            "Name of the Company": "INFOSYS",
+            "sector": "IT",
+            "Salary": 4.2,
+            "Branch": "EIE",
+            "Count": 8
+        },
+        {
+            "Name of the Company": "WIPRO",
+            "sector": "IT",
+            "Salary": 3.8,
+            "Branch": "EIE",
+            "Count": 7
+        },
+        {
+            "Name of the Company": "COGNIZANT",
+            "sector": "IT",
+            "Salary": 4.5,
+            "Branch": "EIE",
+            "Count": 7
+        },
+        {
+            "Name of the Company": "CAPGEMINI",
+            "sector": "IT",
+            "Salary": 4.2,
+            "Branch": "EIE",
+            "Count": 6
+        },
+        {
+            "Name of the Company": "SIEMENS",
+            "sector": "CORE",
+            "Salary": 5.5,
+            "Branch": "EIE",
+            "Count": 3
+        },
+        {
+            "Name of the Company": "BOSCH",
+            "sector": "CORE",
+            "Salary": 5.0,
+            "Branch": "EIE",
+            "Count": 3
+        },
+        {
+            "Name of the Company": "ACCENTURE",
+            "sector": "IT",
+            "Salary": 4.5,
+            "Branch": "MECH",
+            "Count": 7
+        },
+        {
+            "Name of the Company": "TCS",
+            "sector": "IT",
+            "Salary": 4.0,
+            "Branch": "MECH",
+            "Count": 8
+        },
+        {
+            "Name of the Company": "INFOSYS",
+            "sector": "IT",
+            "Salary": 4.2,
+            "Branch": "MECH",
+            "Count": 7
+        },
+        {
+            "Name of the Company": "WIPRO",
+            "sector": "IT",
+            "Salary": 3.8,
+            "Branch": "MECH",
+            "Count": 6
+        },
+        {
+            "Name of the Company": "COGNIZANT",
+            "sector": "IT",
+            "Salary": 4.5,
+            "Branch": "MECH",
+            "Count": 6
+        },
+        {
+            "Name of the Company": "SIEMENS",
+            "sector": "CORE",
+            "Salary": 5.5,
+            "Branch": "MECH",
+            "Count": 4
+        },
+        {
+            "Name of the Company": "BOSCH",
+            "sector": "CORE",
+            "Salary": 5.0,
+            "Branch": "MECH",
+            "Count": 4
+        },
+        {
+            "Name of the Company": "L&T",
+            "sector": "CORE",
+            "Salary": 4.5,
+            "Branch": "MECH",
+            "Count": 3
+        },
+        {
+            "Name of the Company": "TATA MOTORS",
+            "sector": "CORE",
+            "Salary": 4.2,
+            "Branch": "MECH",
+            "Count": 3
+        },
+        {
+            "Name of the Company": "ACCENTURE",
+            "sector": "IT",
+            "Salary": 4.5,
+            "Branch": "M.TECH",
+            "Count": 6
+        },
+        {
+            "Name of the Company": "TCS",
+            "sector": "IT",
+            "Salary": 4.0,
+            "Branch": "M.TECH",
+            "Count": 7
+        },
+        {
+            "Name of the Company": "INFOSYS",
+            "sector": "IT",
+            "Salary": 4.2,
+            "Branch": "M.TECH",
+            "Count": 6
+        },
+        {
+            "Name of the Company": "WIPRO",
+            "sector": "IT",
+            "Salary": 3.8,
+            "Branch": "M.TECH",
+            "Count": 5
+        },
+        {
+            "Name of the Company": "COGNIZANT",
+            "sector": "IT",
+            "Salary": 4.5,
+            "Branch": "M.TECH",
+            "Count": 5
+        },
+        {
+            "Name of the Company": "SIEMENS",
+            "sector": "CORE",
+            "Salary": 5.5,
+            "Branch": "M.TECH",
+            "Count": 3
+        },
+        {
+            "Name of the Company": "BOSCH",
+            "sector": "CORE",
+            "Salary": 5.0,
+            "Branch": "M.TECH",
+            "Count": 3
+        },
+        {
+            "Name of the Company": "L&T",
+            "sector": "CORE",
+            "Salary": 4.5,
+            "Branch": "M.TECH",
+            "Count": 2
+        },
+        {
+            "Name of the Company": "TATA MOTORS",
+            "sector": "CORE",
+            "Salary": 4.2,
+            "Branch": "M.TECH",
+            "Count": 2
+        }
+    ]
+}

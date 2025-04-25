@@ -19,7 +19,8 @@ function DataViewer({ fileId }) {
     setLoading(true)
     try {
       const response = await axios.get(`http://localhost:5000/api/files/${fileId}`)
-      setData(response.data) 
+      setData(response.data) ;
+      console.log("abbu",JSON.stringify(response.data))
     } catch (error) {
       console.error("Error fetching data:", error)
     } finally {

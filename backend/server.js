@@ -4,11 +4,11 @@ const cors = require("cors"); // Import cors
 const path = require("path");
 const AdminAPI = require("./APIs/adminApi");
 const fs = require("fs");
-const PORT = process.env.PORT || 9000;
+const PORT = process.env.PORT || 5000;
 const app = express();
 
 // Enable CORS
-app.use(cors({ origin: "http://localhost:5173" })); // Allow requests from the frontend
+app.use(cors()); // Allow requests from the frontend
 
 // Function to clean and format branch data
 const processBranchData = (data) => {
@@ -117,6 +117,7 @@ const getPlacementData = (year) => {
         const companyData = JSON.parse(fs.readFileSync(companyFilePath, 'utf8'));
         
         return { 
+            "Cleaned_Branch_Wise": branchData.Cleaned_Branch_Wise,
             "Branch-Wise": processBranchData(branchData.Cleaned_Branch_Wise),
             "Company-Wise": processCompanyData(companyData.Cleaned_Data),
             "Consolidated": processConsolidatedData(companyData.Cleaned_Data)

@@ -1,14 +1,49 @@
-.dashboard {
+.visualization-container {
+  display: flex;
   width: 100%;
-  max-width: 1400px;
-  margin: 0 auto;
+  min-height: 100vh;
+  overflow-x: hidden;
+  position: relative;
+}
+
+.visualization-container .dashboard {
+  width: calc(100% - 200px);
+  margin: 0 0 0 200px;
   padding: 30px;
   background: #FFFFFF;
-  border-radius: 16px;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   display: flex;
   flex-direction: column;
   align-items: center;
+  transition: margin-left 0.3s ease, width 0.3s ease;
+  min-height: 100vh;
+}
+
+.visualization-container .sidebar.collapsed ~ .dashboard {
+  width: calc(100% - 50px);
+  margin: 0 0 0 50px;
+}
+
+.visualization-container .dashboard-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  padding: 2rem 0;
+  margin-bottom: 2rem;
+  position: relative;
+  background: #FFFFFF;
+  z-index: 100;
+  border-bottom: 2px solid #F6DED8;
+}
+
+.visualization-container .charts {
+  width: 100%;
+  max-width: 100%;
+  overflow-x: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
 }
 
 .dashboard-header {
@@ -75,15 +110,6 @@
   border-radius: 2px;
 }
 
-.charts {
-  width: 100%;
-  max-width: 100%;
-  overflow-x: auto;
-  display: flex;
-  flex-direction: column;
-  gap: 40px;
-}
-
 .chart-section {
   width: 100%;
   max-width: 100%;
@@ -134,17 +160,29 @@
 }
 
 @media (max-width: 1400px) {
-  .dashboard {
+  .visualization-container .dashboard {
     padding: 20px;
   }
 }
 
 @media (max-width: 768px) {
-  .dashboard {
+  .visualization-container .dashboard {
     padding: 15px;
+    margin-left: 0;
+    width: 100%;
   }
 
-  .dashboard-header h1 {
+  .visualization-container .sidebar {
+    width: 100%;
+    height: auto;
+    position: relative;
+  }
+
+  .visualization-container {
+    flex-direction: column;
+  }
+
+  .visualization-container .dashboard-header h1 {
     font-size: 2rem;
   }
 

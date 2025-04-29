@@ -2,16 +2,27 @@ import { Link } from "react-router-dom";
 import { useState, useEffect } from "react";
 import "./Sidebar.css";
 
-function Sidebar({ onToggle }) {
+function Sidebar() {
   const [collapsed, setCollapsed] = useState(false);
 
   const toggleSidebar = () => {
     const newState = !collapsed;
     setCollapsed(newState);
-    if (onToggle) {
-      onToggle(newState);
+    // Add a class to the body for global state tracking
+    if (newState) {
+      document.body.classList.add('sidebar-collapsed');
+    } else {
+      document.body.classList.remove('sidebar-collapsed');
     }
   };
+
+  // Initialize on mount
+  useEffect(() => {
+    return () => {
+      // Clean up on unmount
+      document.body.classList.remove('sidebar-collapsed');
+    };
+  }, []);
 
   return (
     <div className={`sidebar ${collapsed ? "collapsed" : ""}`}>
@@ -27,10 +38,10 @@ function Sidebar({ onToggle }) {
       </button>
       <nav className="sidebar-nav">
         <ul>
-          <li className="active">
+          <li>
             <Link to="/"><span>Dashboard</span></Link>
           </li>
-          <li>
+          <li className="active">
             <Link to="/visualization"><span>Visualization</span></Link>
           </li>
         </ul>
@@ -42,4 +53,4 @@ function Sidebar({ onToggle }) {
   );
 }
 
-export default Sidebar;
+export default Sidebar; 

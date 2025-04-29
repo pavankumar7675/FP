@@ -9,11 +9,20 @@
   --shadow-lg: 0 8px 15px rgba(0, 0, 0, 0.1);
 }
 
+body, html {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  width: 100%;
+  height: 100%;
+}
+
 .dashboard {   
   display: flex;   
   width: 100%;   
   min-height: 100vh;
   background-color: var(--light-bg);
+  position: relative;
 }  
 
 .sidebar {
@@ -21,20 +30,28 @@
   left: 0;
   top: 0;
   bottom: 0;
-  width: 280px;
+  width: 200px;
   background: linear-gradient(to bottom, var(--dark-red), var(--medium-red));
-  padding: 2rem 1.5rem;
+  padding: 1.5rem 1rem;
   color: var(--white);
   z-index: 100;
   box-shadow: var(--shadow-md);
 }
 
 .dashboard-content {   
-  margin-left: 280px;
+  margin-left: 200px;
   flex: 1;   
   padding: 2rem;   
   background-color: var(--light-bg);
-}  
+  transition: margin-left 0.3s ease;
+  width: calc(100% - 200px);
+}
+
+.sidebar.collapsed + .dashboard-content,
+.dashboard .sidebar.collapsed ~ .dashboard-content {
+  margin-left: 50px;
+  width: calc(100% - 50px);
+}
 
 .dashboard-content h1 {   
   color: var(--dark-red);   
@@ -58,10 +75,11 @@
 
 .dashboard-grid {   
   display: grid;   
-  grid-template-columns: 350px 1fr;   
+  grid-template-columns: 240px 1fr;   
   gap: 2rem;
   min-height: calc(100vh - 120px);
   margin-top: 1.5rem;
+  width: 100%;
 }  
 
 .dashboard-left {   
@@ -83,6 +101,7 @@
   overflow: hidden;
   border: 1px solid rgba(0, 0, 0, 0.05);
   padding: 1.5rem;
+  width: 100%;
 }  
 
 .no-file-selected {   
@@ -122,23 +141,23 @@
 /* Responsive Design */
 @media (max-width: 1400px) {
   .dashboard-grid {
-    grid-template-columns: 300px 1fr;
+    grid-template-columns: 180px 1fr;
     gap: 1.5rem;
   }
 }
 
 @media (max-width: 1200px) {
   .sidebar {
-    width: 240px;
+    width: 180px;
   }
   
   .dashboard-content {
-    margin-left: 240px;
+    margin-left: 180px;
     padding: 1.5rem;
   }
   
   .dashboard-grid {
-    grid-template-columns: 260px 1fr;
+    grid-template-columns: 170px 1fr;
     gap: 1rem;
   }
 }
@@ -168,6 +187,7 @@
   .dashboard-content {
     margin-left: 0;
     padding: 1rem;
+    width: 100%;
   }
 
   .dashboard-content h1 {

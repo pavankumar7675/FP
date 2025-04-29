@@ -10,6 +10,7 @@ function Dashboard() {
   const [files, setFiles] = useState([])
   const [selectedFile, setSelectedFile] = useState(null)
   const [refreshTrigger, setRefreshTrigger] = useState(0)
+  const [sidebarCollapsed, setSidebarCollapsed] = useState(false)
 
   useEffect(() => {
     fetchFiles()
@@ -52,10 +53,14 @@ function Dashboard() {
     }
   }
 
+  const handleSidebarToggle = (collapsed) => {
+    setSidebarCollapsed(collapsed);
+  }
+
   return (
     <div className="dashboard">
-      <Sidebar />
-      <div className="dashboard-content">
+      <Sidebar onToggle={handleSidebarToggle} />
+      <div className={`dashboard-content ${sidebarCollapsed ? 'sidebar-collapsed' : ''}`}> 
         <h1>CSV Admin Dashboard</h1>
         <div className="dashboard-grid">
           <div className="dashboard-left">

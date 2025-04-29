@@ -6,6 +6,7 @@ import './SummaryStats.css';
 import './Tables.css';
 import './Charts.css';
 import './States.css';
+import Sidebar from "./Sidebar";
 
 const COLORS = ['#3498db', '#2ecc71', '#e74c3c', '#f1c40f', '#9b59b6', '#1abc9c', '#e67e22', '#34495e', '#7f8c8d', '#16a085'];
 
@@ -89,8 +90,8 @@ const Dashboard = () => {
     };
   }, [data]);
 
-  return (
-    <div className="dashboard">
+  const dashboardContent = (
+    <>
       <div className="dashboard-header">
         <select
           value={year}
@@ -355,6 +356,15 @@ const Dashboard = () => {
           </div>
         </div>
       ) : null}
+    </>
+  );
+
+  return (
+    <div className="visualization-container">
+      <Sidebar />
+      <div className="dashboard">
+        {dashboardContent}
+      </div>
     </div>
   );
 };

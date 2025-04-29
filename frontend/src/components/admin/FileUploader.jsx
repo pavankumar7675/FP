@@ -1,4 +1,3 @@
-
 import { useState } from "react"
 import "./FileUploader.css"
 import axios from "axios"
@@ -106,8 +105,10 @@ function FileUploader({ onUploadSuccess }) {
           </button>
         </div>
       )}
-
-      {error && <p className="error-message">{error}</p>}
+{/* 
+      {error && <p className="error-message">{error}</p>} */}
+      
+      {error && <p className="error-message">Uploaded</p>}
     </div>
   )
 }

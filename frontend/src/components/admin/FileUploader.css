@@ -85,7 +85,7 @@
 }
 
 .error-message {
-  color: var(--dark-red);
+  color: green;
   background: rgba(125, 10, 10, 0.1);
   padding: 0.75rem;
   border-radius: 6px;

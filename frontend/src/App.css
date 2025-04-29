@@ -4,11 +4,19 @@
   padding: 0;
 }
 
+:root {
+  --dark-red: #B82132;
+  --medium-red: #D2665A;
+  --light-accent: #F2B28C;
+  --light-bg: #F6DED8;
+  --white: #FFFFFF;
+}
+
 body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1.6;
   color: #333;
-  background-color: #f5f7fa;
+  background-color: var(--light-bg);
 }
 
 .App {

@@ -1,8 +1,9 @@
 :root {
-  --dark-red: #7D0A0A;
-  --medium-red: #BF3131;
-  --light-yellow: #EAD196;
-  --white: #EEEEEE;
+  --dark-red: #B82132;
+  --medium-red: #D2665A;
+  --light-accent: #F2B28C;
+  --light-bg: #F6DED8;
+  --white: #FFFFFF;
   --shadow-sm: 0 2px 4px rgba(0, 0, 0, 0.05);
   --shadow-md: 0 4px 6px rgba(0, 0, 0, 0.1);
   --shadow-lg: 0 8px 15px rgba(0, 0, 0, 0.1);
@@ -12,7 +13,7 @@
   display: flex;   
   width: 100%;   
   min-height: 100vh;
-  background-color: #f8f9fa;
+  background-color: var(--light-bg);
 }  
 
 .sidebar {
@@ -32,7 +33,7 @@
   margin-left: 280px;
   flex: 1;   
   padding: 2rem;   
-  background-color: #f8f9fa;
+  background-color: var(--light-bg);
 }  
 
 .dashboard-content h1 {   
@@ -52,7 +53,7 @@
   left: 0;
   width: 100px;
   height: 3px;
-  background: var(--light-yellow);
+  background: var(--light-accent);
 }
 
 .dashboard-grid {   
@@ -93,7 +94,7 @@
   font-size: 1.1rem;
   text-align: center;
   padding: 2rem;
-  background-color: #f8f9fa;
+  background-color: var(--light-bg);
   border-radius: 8px;
   border: 2px dashed var(--medium-red);
   gap: 1rem;

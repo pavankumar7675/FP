@@ -1,9 +1,9 @@
 .sidebar {
   width: 280px;
   height: 100vh;
-  background: linear-gradient(to bottom, var(--dark-red), var(--medium-red));
+  background: linear-gradient(to bottom, #B82132, #D2665A);
   padding: 2rem 1.5rem;
-  color: var(--white);
+  color: white;
   position: fixed;
   left: 0;
   top: 0;
@@ -55,11 +55,11 @@
 }
 
 .sidebar-nav li.active {
-  background-color: var(--light-yellow);
+  background-color: #F2B28C;
 }
 
 .sidebar-nav li.active a {
-  color: var(--dark-red);
+  color: #B82132;
   font-weight: 600;
 }
 
